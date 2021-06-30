@@ -12,6 +12,7 @@ use Yii;
  * @property int $is_delete
  * @property string|null $created_at
  * @property string|null $updated_at
+ * @property string|null $created_by
  *
  * @property ChatMembers[] $chatMembers
  */
@@ -32,7 +33,7 @@ class Chats extends \yii\db\ActiveRecord
     {
         return [
             [['name'], 'required'],
-            [['is_delete'], 'integer'],
+            [['is_delete','created_by'], 'integer'],
             [['created_at', 'updated_at'], 'safe'],
             [['name'], 'string', 'max' => 255],
         ];
@@ -49,6 +50,7 @@ class Chats extends \yii\db\ActiveRecord
             'is_delete' => 'Is Delete',
             'created_at' => 'Created At',
             'updated_at' => 'Updated At',
+            'created_by' => 'Created By'
         ];
     }
 

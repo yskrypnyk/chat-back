@@ -2686,3 +2686,387 @@ Stack trace:
 #2 /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
 #3 /home/yar0s/Projects/chat-back/yii(20): yii\base\Application->run()
 #4 {main}
+[Console] 14:49:21 : WebSocket server started
+Unknown command: socket/start-socket
+Caused by: Exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "socket/start-socket".'
+
+in /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/base/Module.php:543
+
+Stack trace:
+#0 /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#1 /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#2 /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#3 /home/yar0s/Projects/chat-back/yii(20): yii\base\Application->run()
+#4 {main}
+[Console] 14:49:21 : WebSocket server started
+Unknown command: socket/start-socket
+Caused by: Exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "socket/start-socket".'
+
+in /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/base/Module.php:543
+
+Stack trace:
+#0 /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#1 /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#2 /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#3 /home/yar0s/Projects/chat-back/yii(20): yii\base\Application->run()
+#4 {main}
+[Console] 14:49:21 : WebSocket server started
+Unknown command: socket/start-socket
+Caused by: Exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "socket/start-socket".'
+
+in /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/base/Module.php:543
+
+Stack trace:
+#0 /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#1 /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#2 /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#3 /home/yar0s/Projects/chat-back/yii(20): yii\base\Application->run()
+#4 {main}
+[Console] 14:49:21 : WebSocket server started
+Unknown command: socket/start-socket
+Caused by: Exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "socket/start-socket".'
+
+in /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/base/Module.php:543
+
+Stack trace:
+#0 /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#1 /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#2 /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#3 /home/yar0s/Projects/chat-back/yii(20): yii\base\Application->run()
+#4 {main}
+[Console] 14:49:21 : WebSocket server started
+Unknown command: socket/start-socket
+Caused by: Exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "socket/start-socket".'
+
+in /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/base/Module.php:543
+
+Stack trace:
+#0 /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#1 /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#2 /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#3 /home/yar0s/Projects/chat-back/yii(20): yii\base\Application->run()
+#4 {main}
+[Console] 14:49:21 : WebSocket server started
+Unknown command: socket/start-socket
+Caused by: Exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "socket/start-socket".'
+
+in /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/base/Module.php:543
+
+Stack trace:
+#0 /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#1 /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#2 /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#3 /home/yar0s/Projects/chat-back/yii(20): yii\base\Application->run()
+#4 {main}
+[Console] 14:49:21 : WebSocket server started
+Unknown command: socket/start-socket
+Caused by: Exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "socket/start-socket".'
+
+in /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/base/Module.php:543
+
+Stack trace:
+#0 /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#1 /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#2 /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#3 /home/yar0s/Projects/chat-back/yii(20): yii\base\Application->run()
+#4 {main}
+[Console] 14:49:21 : WebSocket server started
+Unknown command: socket/start-socket
+Caused by: Exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "socket/start-socket".'
+
+in /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/base/Module.php:543
+
+Stack trace:
+#0 /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#1 /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#2 /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#3 /home/yar0s/Projects/chat-back/yii(20): yii\base\Application->run()
+#4 {main}
+[Console] 14:49:21 : WebSocket server started
+Unknown command: socket/start-socket
+Caused by: Exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "socket/start-socket".'
+
+in /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/base/Module.php:543
+
+Stack trace:
+#0 /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#1 /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#2 /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#3 /home/yar0s/Projects/chat-back/yii(20): yii\base\Application->run()
+#4 {main}
+[Console] 14:49:21 : WebSocket server started
+Unknown command: socket/start-socket
+Caused by: Exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "socket/start-socket".'
+
+in /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/base/Module.php:543
+
+Stack trace:
+#0 /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#1 /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#2 /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#3 /home/yar0s/Projects/chat-back/yii(20): yii\base\Application->run()
+#4 {main}
+[Console] 14:49:21 : WebSocket server started
+Unknown command: socket/start-socket
+Caused by: Exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "socket/start-socket".'
+
+in /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/base/Module.php:543
+
+Stack trace:
+#0 /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#1 /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#2 /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#3 /home/yar0s/Projects/chat-back/yii(20): yii\base\Application->run()
+#4 {main}
+[Console] 14:49:21 : WebSocket server started
+Unknown command: socket/start-socket
+Caused by: Exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "socket/start-socket".'
+
+in /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/base/Module.php:543
+
+Stack trace:
+#0 /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#1 /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#2 /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#3 /home/yar0s/Projects/chat-back/yii(20): yii\base\Application->run()
+#4 {main}
+[Console] 14:49:21 : WebSocket server started
+Unknown command: socket/start-socket
+Caused by: Exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "socket/start-socket".'
+
+in /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/base/Module.php:543
+
+Stack trace:
+#0 /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#1 /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#2 /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#3 /home/yar0s/Projects/chat-back/yii(20): yii\base\Application->run()
+#4 {main}
+[Console] 14:49:21 : WebSocket server started
+Unknown command: socket/start-socket
+Caused by: Exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "socket/start-socket".'
+
+in /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/base/Module.php:543
+
+Stack trace:
+#0 /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#1 /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#2 /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#3 /home/yar0s/Projects/chat-back/yii(20): yii\base\Application->run()
+#4 {main}
+[Console] 14:49:21 : WebSocket server started
+Unknown command: socket/start-socket
+Caused by: Exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "socket/start-socket".'
+
+in /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/base/Module.php:543
+
+Stack trace:
+#0 /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#1 /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#2 /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#3 /home/yar0s/Projects/chat-back/yii(20): yii\base\Application->run()
+#4 {main}
+[Console] 14:49:21 : WebSocket server started
+Unknown command: socket/start-socket
+Caused by: Exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "socket/start-socket".'
+
+in /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/base/Module.php:543
+
+Stack trace:
+#0 /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#1 /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#2 /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#3 /home/yar0s/Projects/chat-back/yii(20): yii\base\Application->run()
+#4 {main}
+[Console] 15:18:53 : WebSocket server started
+Unknown command: socket/start-socket
+Caused by: Exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "socket/start-socket".'
+
+in /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/base/Module.php:543
+
+Stack trace:
+#0 /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#1 /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#2 /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#3 /home/yar0s/Projects/chat-back/yii(20): yii\base\Application->run()
+#4 {main}
+[Console] 15:18:53 : WebSocket server started
+Unknown command: socket/start-socket
+Caused by: Exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "socket/start-socket".'
+
+in /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/base/Module.php:543
+
+Stack trace:
+#0 /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#1 /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#2 /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#3 /home/yar0s/Projects/chat-back/yii(20): yii\base\Application->run()
+#4 {main}
+[Console] 15:18:53 : WebSocket server started
+Unknown command: socket/start-socket
+Caused by: Exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "socket/start-socket".'
+
+in /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/base/Module.php:543
+
+Stack trace:
+#0 /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#1 /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#2 /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#3 /home/yar0s/Projects/chat-back/yii(20): yii\base\Application->run()
+#4 {main}
+[Console] 15:18:53 : WebSocket server started
+Unknown command: socket/start-socket
+Caused by: Exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "socket/start-socket".'
+
+in /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/base/Module.php:543
+
+Stack trace:
+#0 /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#1 /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#2 /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#3 /home/yar0s/Projects/chat-back/yii(20): yii\base\Application->run()
+#4 {main}
+[Console] 15:18:53 : WebSocket server started
+Unknown command: socket/start-socket
+Caused by: Exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "socket/start-socket".'
+
+in /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/base/Module.php:543
+
+Stack trace:
+#0 /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#1 /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#2 /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#3 /home/yar0s/Projects/chat-back/yii(20): yii\base\Application->run()
+#4 {main}
+[Console] 15:18:53 : WebSocket server started
+Unknown command: socket/start-socket
+Caused by: Exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "socket/start-socket".'
+
+in /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/base/Module.php:543
+
+Stack trace:
+#0 /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#1 /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#2 /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#3 /home/yar0s/Projects/chat-back/yii(20): yii\base\Application->run()
+#4 {main}
+[Console] 15:18:53 : WebSocket server started
+Unknown command: socket/start-socket
+Caused by: Exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "socket/start-socket".'
+
+in /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/base/Module.php:543
+
+Stack trace:
+#0 /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#1 /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#2 /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#3 /home/yar0s/Projects/chat-back/yii(20): yii\base\Application->run()
+#4 {main}
+[Console] 15:18:53 : WebSocket server started
+Unknown command: socket/start-socket
+Caused by: Exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "socket/start-socket".'
+
+in /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/base/Module.php:543
+
+Stack trace:
+#0 /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#1 /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#2 /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#3 /home/yar0s/Projects/chat-back/yii(20): yii\base\Application->run()
+#4 {main}
+[Console] 15:18:54 : WebSocket server started
+Unknown command: socket/start-socket
+Caused by: Exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "socket/start-socket".'
+
+in /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/base/Module.php:543
+
+Stack trace:
+#0 /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#1 /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#2 /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#3 /home/yar0s/Projects/chat-back/yii(20): yii\base\Application->run()
+#4 {main}
+[Console] 15:18:54 : WebSocket server started
+Unknown command: socket/start-socket
+Caused by: Exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "socket/start-socket".'
+
+in /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/base/Module.php:543
+
+Stack trace:
+#0 /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#1 /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#2 /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#3 /home/yar0s/Projects/chat-back/yii(20): yii\base\Application->run()
+#4 {main}
+[Console] 15:18:54 : WebSocket server started
+Unknown command: socket/start-socket
+Caused by: Exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "socket/start-socket".'
+
+in /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/base/Module.php:543
+
+Stack trace:
+#0 /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#1 /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#2 /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#3 /home/yar0s/Projects/chat-back/yii(20): yii\base\Application->run()
+#4 {main}
+[Console] 15:18:54 : WebSocket server started
+Unknown command: socket/start-socket
+Caused by: Exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "socket/start-socket".'
+
+in /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/base/Module.php:543
+
+Stack trace:
+#0 /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#1 /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#2 /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#3 /home/yar0s/Projects/chat-back/yii(20): yii\base\Application->run()
+#4 {main}
+[Console] 15:18:54 : WebSocket server started
+Unknown command: socket/start-socket
+Caused by: Exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "socket/start-socket".'
+
+in /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/base/Module.php:543
+
+Stack trace:
+#0 /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#1 /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#2 /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#3 /home/yar0s/Projects/chat-back/yii(20): yii\base\Application->run()
+#4 {main}
+[Console] 15:18:54 : WebSocket server started
+Unknown command: socket/start-socket
+Caused by: Exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "socket/start-socket".'
+
+in /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/base/Module.php:543
+
+Stack trace:
+#0 /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#1 /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#2 /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#3 /home/yar0s/Projects/chat-back/yii(20): yii\base\Application->run()
+#4 {main}
+[Console] 15:18:54 : WebSocket server started
+Unknown command: socket/start-socket
+Caused by: Exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "socket/start-socket".'
+
+in /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/base/Module.php:543
+
+Stack trace:
+#0 /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#1 /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#2 /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#3 /home/yar0s/Projects/chat-back/yii(20): yii\base\Application->run()
+#4 {main}
+[Console] 15:18:54 : WebSocket server started
+Unknown command: socket/start-socket
+Caused by: Exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "socket/start-socket".'
+
+in /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/base/Module.php:543
+
+Stack trace:
+#0 /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#1 /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#2 /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#3 /home/yar0s/Projects/chat-back/yii(20): yii\base\Application->run()
+#4 {main}

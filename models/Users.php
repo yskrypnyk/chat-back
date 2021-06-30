@@ -105,4 +105,24 @@ class Users extends \yii\db\ActiveRecord implements IdentityInterface
     public function validatePassword($realPass){
         return \Yii::$app->security->validatePassword($realPass,$this->password);
     }
+
+    public static function validateToken($token)
+    {
+        if (!empty($token))
+        {
+            $user = Users::findIdentityByAccessToken($token);
+            if (!empty($user))
+            {
+                return true;
+            }
+            else
+            {
+                return false;
+            }
+        }
+        else
+        {
+            return false;
+        }
+    }
 }

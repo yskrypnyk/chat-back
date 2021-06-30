@@ -2,6 +2,7 @@
 
 namespace app\controllers;
 
+use app\models\Chats;
 use Yii;
 use yii\filters\AccessControl;
 use yii\web\Controller;
@@ -121,8 +122,21 @@ class SiteController extends Controller
      *
      * @return string
      */
-    public function actionAbout()
+    public function actionChat()
     {
-        return $this->render('about');
+        $chatData = Chats::find()
+            ->select('users.id as sender_id, users.name as sender_name, chat_messages.message')
+            ->where(['chats.id'=>1])
+            ->rightJoin('chat_members','chat_members.chat_id = chats.id')
+            ->rightJoin('users','chat_members.user_id = users.id')
+            ->rightJoin('chat_messages','chat_messages.member_id = chat_members.id')
+            ->orderBy('chat_messages.created_at')
+            ->asArray()
+            ->all();
+
+        var_dump(json_encode($chatData));
+        die();
+
+        return $this->render('chat');
     }
 }
