@@ -1,0 +1,65 @@
+version: '3'
+
+services:
+  app:
+    build:
+      context: .
+      dockerfile: config/php/Dockerfile
+    restart: unless-stopped
+    tty: true
+    working_dir: /var/www/html
+    volumes:
+      - "./:/var/www/html"
+      - "./config/php/local.ini:/usr/local/etc/php/php.ini"
+    networks:
+      - default
+    depends_on:
+      - db
+
+  nginx:
+    build:
+      context: .
+      dockerfile: config/nginx/Dockerfile
+    ports:
+      - "8080:80"
+    networks:
+      - default
+    volumes:
+      - "./:/var/www/html"
+      - "./config/nginx/conf.d/:/etc/nginx/conf.d/"
+    depends_on:
+      - db
+      - app
+
+  #MySQL Service
+  db:
+    image: mysql:8.0
+    restart: unless-stopped
+    tty: true
+    ports:
+      - "3307:3306"
+    environment:
+      MYSQL_DATABASE: webchat
+      MYSQL_ROOT_PASSWORD: root
+    volumes:
+      - "shopway:/var/lib/mysql/"
+    networks:
+      - default
+
+  phpmyadmin:
+    image: phpmyadmin/phpmyadmin
+    ports:
+      - '8888:80'
+    environment:
+      PMA_HOST: db
+      UPLOAD_LIMIT: "1024M"
+    depends_on:
+      - db
+    networks:
+      - default
+volumes:
+  shopway:
+
+networks:
+  default:
+    driver: bridge
