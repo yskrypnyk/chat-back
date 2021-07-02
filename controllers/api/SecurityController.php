@@ -67,7 +67,7 @@ class SecurityController extends BaseController
 
         $token = Yii::$app->request->headers->get('Authorization');
         if ($token) {
-            $isValid = Users::validateToken(base64_decode($token));
+            $isValid = Users::validateToken($token);
             if ($isValid) {
                 return parent::beforeAction($action);
             } else {

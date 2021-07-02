@@ -134,9 +134,6 @@ class SiteController extends Controller
             ->asArray()
             ->all();
 
-        var_dump(json_encode($chatData));
-        die();
-
         return $this->render('chat');
     }
 }

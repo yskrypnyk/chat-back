@@ -3070,3 +3070,1690 @@ Stack trace:
 #2 /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
 #3 /home/yar0s/Projects/chat-back/yii(20): yii\base\Application->run()
 #4 {main}
+[Console] 15:47:18 : WebSocket server started
+Unknown command: socket/start-socket
+Caused by: Exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "socket/start-socket".'
+
+in /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/base/Module.php:543
+
+Stack trace:
+#0 /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#1 /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#2 /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#3 /home/yar0s/Projects/chat-back/yii(20): yii\base\Application->run()
+#4 {main}
+[Console] 15:47:18 : WebSocket server started
+Unknown command: socket/start-socket
+Caused by: Exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "socket/start-socket".'
+
+in /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/base/Module.php:543
+
+Stack trace:
+#0 /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#1 /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#2 /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#3 /home/yar0s/Projects/chat-back/yii(20): yii\base\Application->run()
+#4 {main}
+[Console] 15:47:18 : WebSocket server started
+Unknown command: socket/start-socket
+Caused by: Exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "socket/start-socket".'
+
+in /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/base/Module.php:543
+
+Stack trace:
+#0 /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#1 /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#2 /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#3 /home/yar0s/Projects/chat-back/yii(20): yii\base\Application->run()
+#4 {main}
+[Console] 15:47:19 : WebSocket server started
+Unknown command: socket/start-socket
+Caused by: Exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "socket/start-socket".'
+
+in /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/base/Module.php:543
+
+Stack trace:
+#0 /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#1 /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#2 /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#3 /home/yar0s/Projects/chat-back/yii(20): yii\base\Application->run()
+#4 {main}
+[Console] 15:47:19 : WebSocket server started
+Unknown command: socket/start-socket
+Caused by: Exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "socket/start-socket".'
+
+in /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/base/Module.php:543
+
+Stack trace:
+#0 /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#1 /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#2 /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#3 /home/yar0s/Projects/chat-back/yii(20): yii\base\Application->run()
+#4 {main}
+[Console] 15:47:19 : WebSocket server started
+Unknown command: socket/start-socket
+Caused by: Exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "socket/start-socket".'
+
+in /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/base/Module.php:543
+
+Stack trace:
+#0 /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#1 /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#2 /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#3 /home/yar0s/Projects/chat-back/yii(20): yii\base\Application->run()
+#4 {main}
+[Console] 15:47:19 : WebSocket server started
+Unknown command: socket/start-socket
+Caused by: Exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "socket/start-socket".'
+
+in /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/base/Module.php:543
+
+Stack trace:
+#0 /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#1 /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#2 /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#3 /home/yar0s/Projects/chat-back/yii(20): yii\base\Application->run()
+#4 {main}
+[Console] 15:47:19 : WebSocket server started
+Unknown command: socket/start-socket
+Caused by: Exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "socket/start-socket".'
+
+in /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/base/Module.php:543
+
+Stack trace:
+#0 /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#1 /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#2 /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#3 /home/yar0s/Projects/chat-back/yii(20): yii\base\Application->run()
+#4 {main}
+[Console] 15:47:19 : WebSocket server started
+Unknown command: socket/start-socket
+Caused by: Exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "socket/start-socket".'
+
+in /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/base/Module.php:543
+
+Stack trace:
+#0 /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#1 /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#2 /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#3 /home/yar0s/Projects/chat-back/yii(20): yii\base\Application->run()
+#4 {main}
+[Console] 15:47:19 : WebSocket server started
+Unknown command: socket/start-socket
+Caused by: Exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "socket/start-socket".'
+
+in /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/base/Module.php:543
+
+Stack trace:
+#0 /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#1 /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#2 /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#3 /home/yar0s/Projects/chat-back/yii(20): yii\base\Application->run()
+#4 {main}
+[Console] 15:47:19 : WebSocket server started
+Unknown command: socket/start-socket
+Caused by: Exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "socket/start-socket".'
+
+in /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/base/Module.php:543
+
+Stack trace:
+#0 /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#1 /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#2 /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#3 /home/yar0s/Projects/chat-back/yii(20): yii\base\Application->run()
+#4 {main}
+[Console] 15:47:19 : WebSocket server started
+Unknown command: socket/start-socket
+Caused by: Exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "socket/start-socket".'
+
+in /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/base/Module.php:543
+
+Stack trace:
+#0 /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#1 /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#2 /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#3 /home/yar0s/Projects/chat-back/yii(20): yii\base\Application->run()
+#4 {main}
+[Console] 15:47:19 : WebSocket server started
+Unknown command: socket/start-socket
+Caused by: Exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "socket/start-socket".'
+
+in /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/base/Module.php:543
+
+Stack trace:
+#0 /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#1 /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#2 /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#3 /home/yar0s/Projects/chat-back/yii(20): yii\base\Application->run()
+#4 {main}
+[Console] 15:47:19 : WebSocket server started
+Unknown command: socket/start-socket
+Caused by: Exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "socket/start-socket".'
+
+in /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/base/Module.php:543
+
+Stack trace:
+#0 /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#1 /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#2 /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#3 /home/yar0s/Projects/chat-back/yii(20): yii\base\Application->run()
+#4 {main}
+[Console] 15:47:19 : WebSocket server started
+Unknown command: socket/start-socket
+Caused by: Exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "socket/start-socket".'
+
+in /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/base/Module.php:543
+
+Stack trace:
+#0 /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#1 /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#2 /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#3 /home/yar0s/Projects/chat-back/yii(20): yii\base\Application->run()
+#4 {main}
+[Console] 15:47:19 : WebSocket server started
+Unknown command: socket/start-socket
+Caused by: Exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "socket/start-socket".'
+
+in /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/base/Module.php:543
+
+Stack trace:
+#0 /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#1 /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#2 /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#3 /home/yar0s/Projects/chat-back/yii(20): yii\base\Application->run()
+#4 {main}
+[Console] 13:23:11 : WebSocket server started
+Unknown command: socket/start-socket
+Caused by: Exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "socket/start-socket".'
+
+in /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php:543
+
+Stack trace:
+#0 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#1 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#2 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#3 /home/yar0s/Projects/chat/chat-back/yii(20): yii\base\Application->run()
+#4 {main}
+[Console] 13:23:12 : WebSocket server started
+Unknown command: socket/start-socket
+Caused by: Exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "socket/start-socket".'
+
+in /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php:543
+
+Stack trace:
+#0 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#1 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#2 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#3 /home/yar0s/Projects/chat/chat-back/yii(20): yii\base\Application->run()
+#4 {main}
+[Console] 13:23:12 : WebSocket server started
+Unknown command: socket/start-socket
+Caused by: Exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "socket/start-socket".'
+
+in /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php:543
+
+Stack trace:
+#0 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#1 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#2 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#3 /home/yar0s/Projects/chat/chat-back/yii(20): yii\base\Application->run()
+#4 {main}
+[Console] 13:23:12 : WebSocket server started
+Unknown command: socket/start-socket
+Caused by: Exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "socket/start-socket".'
+
+in /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php:543
+
+Stack trace:
+#0 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#1 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#2 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#3 /home/yar0s/Projects/chat/chat-back/yii(20): yii\base\Application->run()
+#4 {main}
+[Console] 13:23:12 : WebSocket server started
+Unknown command: socket/start-socket
+Caused by: Exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "socket/start-socket".'
+
+in /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php:543
+
+Stack trace:
+#0 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#1 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#2 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#3 /home/yar0s/Projects/chat/chat-back/yii(20): yii\base\Application->run()
+#4 {main}
+[Console] 13:23:12 : WebSocket server started
+Unknown command: socket/start-socket
+Caused by: Exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "socket/start-socket".'
+
+in /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php:543
+
+Stack trace:
+#0 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#1 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#2 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#3 /home/yar0s/Projects/chat/chat-back/yii(20): yii\base\Application->run()
+#4 {main}
+[Console] 13:23:12 : WebSocket server started
+Unknown command: socket/start-socket
+Caused by: Exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "socket/start-socket".'
+
+in /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php:543
+
+Stack trace:
+#0 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#1 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#2 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#3 /home/yar0s/Projects/chat/chat-back/yii(20): yii\base\Application->run()
+#4 {main}
+[Console] 13:23:12 : WebSocket server started
+Unknown command: socket/start-socket
+Caused by: Exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "socket/start-socket".'
+
+in /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php:543
+
+Stack trace:
+#0 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#1 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#2 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#3 /home/yar0s/Projects/chat/chat-back/yii(20): yii\base\Application->run()
+#4 {main}
+[Console] 13:23:12 : WebSocket server started
+Unknown command: socket/start-socket
+Caused by: Exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "socket/start-socket".'
+
+in /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php:543
+
+Stack trace:
+#0 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#1 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#2 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#3 /home/yar0s/Projects/chat/chat-back/yii(20): yii\base\Application->run()
+#4 {main}
+[Console] 13:23:12 : WebSocket server started
+Unknown command: socket/start-socket
+Caused by: Exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "socket/start-socket".'
+
+in /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php:543
+
+Stack trace:
+#0 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#1 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#2 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#3 /home/yar0s/Projects/chat/chat-back/yii(20): yii\base\Application->run()
+#4 {main}
+[Console] 13:23:12 : WebSocket server started
+Unknown command: socket/start-socket
+Caused by: Exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "socket/start-socket".'
+
+in /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php:543
+
+Stack trace:
+#0 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#1 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#2 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#3 /home/yar0s/Projects/chat/chat-back/yii(20): yii\base\Application->run()
+#4 {main}
+[Console] 13:23:12 : WebSocket server started
+Unknown command: socket/start-socket
+Caused by: Exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "socket/start-socket".'
+
+in /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php:543
+
+Stack trace:
+#0 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#1 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#2 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#3 /home/yar0s/Projects/chat/chat-back/yii(20): yii\base\Application->run()
+#4 {main}
+[Console] 13:23:12 : WebSocket server started
+Unknown command: socket/start-socket
+Caused by: Exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "socket/start-socket".'
+
+in /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php:543
+
+Stack trace:
+#0 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#1 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#2 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#3 /home/yar0s/Projects/chat/chat-back/yii(20): yii\base\Application->run()
+#4 {main}
+[Console] 13:23:12 : WebSocket server started
+Unknown command: socket/start-socket
+Caused by: Exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "socket/start-socket".'
+
+in /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php:543
+
+Stack trace:
+#0 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#1 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#2 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#3 /home/yar0s/Projects/chat/chat-back/yii(20): yii\base\Application->run()
+#4 {main}
+[Console] 13:23:12 : WebSocket server started
+Unknown command: socket/start-socket
+Caused by: Exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "socket/start-socket".'
+
+in /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php:543
+
+Stack trace:
+#0 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#1 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#2 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#3 /home/yar0s/Projects/chat/chat-back/yii(20): yii\base\Application->run()
+#4 {main}
+[Console] 13:23:12 : WebSocket server started
+Unknown command: socket/start-socket
+Caused by: Exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "socket/start-socket".'
+
+in /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php:543
+
+Stack trace:
+#0 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#1 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#2 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#3 /home/yar0s/Projects/chat/chat-back/yii(20): yii\base\Application->run()
+#4 {main}
+[Console] 13:48:40 : WebSocket server started
+Unknown command: socket/start-socket
+Caused by: Exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "socket/start-socket".'
+
+in /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php:543
+
+Stack trace:
+#0 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#1 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#2 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#3 /home/yar0s/Projects/chat/chat-back/yii(20): yii\base\Application->run()
+#4 {main}
+[Console] 13:48:40 : WebSocket server started
+Unknown command: socket/start-socket
+Caused by: Exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "socket/start-socket".'
+
+in /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php:543
+
+Stack trace:
+#0 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#1 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#2 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#3 /home/yar0s/Projects/chat/chat-back/yii(20): yii\base\Application->run()
+#4 {main}
+[Console] 13:48:40 : WebSocket server started
+Unknown command: socket/start-socket
+Caused by: Exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "socket/start-socket".'
+
+in /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php:543
+
+Stack trace:
+#0 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#1 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#2 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#3 /home/yar0s/Projects/chat/chat-back/yii(20): yii\base\Application->run()
+#4 {main}
+[Console] 13:48:40 : WebSocket server started
+Unknown command: socket/start-socket
+Caused by: Exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "socket/start-socket".'
+
+in /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php:543
+
+Stack trace:
+#0 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#1 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#2 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#3 /home/yar0s/Projects/chat/chat-back/yii(20): yii\base\Application->run()
+#4 {main}
+[Console] 13:48:40 : WebSocket server started
+Unknown command: socket/start-socket
+Caused by: Exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "socket/start-socket".'
+
+in /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php:543
+
+Stack trace:
+#0 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#1 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#2 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#3 /home/yar0s/Projects/chat/chat-back/yii(20): yii\base\Application->run()
+#4 {main}
+[Console] 13:48:40 : WebSocket server started
+Unknown command: socket/start-socket
+Caused by: Exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "socket/start-socket".'
+
+in /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php:543
+
+Stack trace:
+#0 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#1 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#2 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#3 /home/yar0s/Projects/chat/chat-back/yii(20): yii\base\Application->run()
+#4 {main}
+[Console] 13:48:40 : WebSocket server started
+Unknown command: socket/start-socket
+Caused by: Exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "socket/start-socket".'
+
+in /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php:543
+
+Stack trace:
+#0 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#1 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#2 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#3 /home/yar0s/Projects/chat/chat-back/yii(20): yii\base\Application->run()
+#4 {main}
+[Console] 13:48:40 : WebSocket server started
+Unknown command: socket/start-socket
+Caused by: Exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "socket/start-socket".'
+
+in /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php:543
+
+Stack trace:
+#0 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#1 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#2 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#3 /home/yar0s/Projects/chat/chat-back/yii(20): yii\base\Application->run()
+#4 {main}
+[Console] 13:48:40 : WebSocket server started
+Unknown command: socket/start-socket
+Caused by: Exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "socket/start-socket".'
+
+in /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php:543
+
+Stack trace:
+#0 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#1 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#2 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#3 /home/yar0s/Projects/chat/chat-back/yii(20): yii\base\Application->run()
+#4 {main}
+[Console] 13:48:40 : WebSocket server started
+Unknown command: socket/start-socket
+Caused by: Exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "socket/start-socket".'
+
+in /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php:543
+
+Stack trace:
+#0 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#1 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#2 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#3 /home/yar0s/Projects/chat/chat-back/yii(20): yii\base\Application->run()
+#4 {main}
+[Console] 13:48:40 : WebSocket server started
+Unknown command: socket/start-socket
+Caused by: Exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "socket/start-socket".'
+
+in /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php:543
+
+Stack trace:
+#0 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#1 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#2 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#3 /home/yar0s/Projects/chat/chat-back/yii(20): yii\base\Application->run()
+#4 {main}
+[Console] 13:48:41 : WebSocket server started
+Unknown command: socket/start-socket
+Caused by: Exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "socket/start-socket".'
+
+in /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php:543
+
+Stack trace:
+#0 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#1 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#2 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#3 /home/yar0s/Projects/chat/chat-back/yii(20): yii\base\Application->run()
+#4 {main}
+[Console] 13:48:41 : WebSocket server started
+Unknown command: socket/start-socket
+Caused by: Exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "socket/start-socket".'
+
+in /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php:543
+
+Stack trace:
+#0 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#1 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#2 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#3 /home/yar0s/Projects/chat/chat-back/yii(20): yii\base\Application->run()
+#4 {main}
+[Console] 13:48:41 : WebSocket server started
+Unknown command: socket/start-socket
+Caused by: Exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "socket/start-socket".'
+
+in /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php:543
+
+Stack trace:
+#0 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#1 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#2 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#3 /home/yar0s/Projects/chat/chat-back/yii(20): yii\base\Application->run()
+#4 {main}
+[Console] 13:48:41 : WebSocket server started
+Unknown command: socket/start-socket
+Caused by: Exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "socket/start-socket".'
+
+in /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php:543
+
+Stack trace:
+#0 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#1 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#2 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#3 /home/yar0s/Projects/chat/chat-back/yii(20): yii\base\Application->run()
+#4 {main}
+[Console] 13:48:41 : WebSocket server started
+Unknown command: socket/start-socket
+Caused by: Exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "socket/start-socket".'
+
+in /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php:543
+
+Stack trace:
+#0 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#1 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#2 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#3 /home/yar0s/Projects/chat/chat-back/yii(20): yii\base\Application->run()
+#4 {main}
+[Console] 13:49:29 : WebSocket server started
+Exception 'yii\base\InvalidConfigException' with message 'Controller class must extend from \yii\base\Controller.'
+
+in /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php:651
+
+Stack trace:
+#0 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php(602): yii\base\Module->createControllerByID()
+#1 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Module->createController()
+#2 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#3 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#4 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#5 /home/yar0s/Projects/chat/chat-back/yii(20): yii\base\Application->run()
+#6 {main}
+[Console] 13:49:29 : WebSocket server started
+Exception 'yii\base\InvalidConfigException' with message 'Controller class must extend from \yii\base\Controller.'
+
+in /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php:651
+
+Stack trace:
+#0 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php(602): yii\base\Module->createControllerByID()
+#1 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Module->createController()
+#2 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#3 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#4 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#5 /home/yar0s/Projects/chat/chat-back/yii(20): yii\base\Application->run()
+#6 {main}
+[Console] 13:49:29 : WebSocket server started
+Exception 'yii\base\InvalidConfigException' with message 'Controller class must extend from \yii\base\Controller.'
+
+in /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php:651
+
+Stack trace:
+#0 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php(602): yii\base\Module->createControllerByID()
+#1 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Module->createController()
+#2 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#3 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#4 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#5 /home/yar0s/Projects/chat/chat-back/yii(20): yii\base\Application->run()
+#6 {main}
+[Console] 13:49:29 : WebSocket server started
+Exception 'yii\base\InvalidConfigException' with message 'Controller class must extend from \yii\base\Controller.'
+
+in /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php:651
+
+Stack trace:
+#0 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php(602): yii\base\Module->createControllerByID()
+#1 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Module->createController()
+#2 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#3 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#4 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#5 /home/yar0s/Projects/chat/chat-back/yii(20): yii\base\Application->run()
+#6 {main}
+[Console] 13:49:29 : WebSocket server started
+Exception 'yii\base\InvalidConfigException' with message 'Controller class must extend from \yii\base\Controller.'
+
+in /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php:651
+
+Stack trace:
+#0 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php(602): yii\base\Module->createControllerByID()
+#1 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Module->createController()
+#2 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#3 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#4 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#5 /home/yar0s/Projects/chat/chat-back/yii(20): yii\base\Application->run()
+#6 {main}
+[Console] 13:49:29 : WebSocket server started
+Exception 'yii\base\InvalidConfigException' with message 'Controller class must extend from \yii\base\Controller.'
+
+in /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php:651
+
+Stack trace:
+#0 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php(602): yii\base\Module->createControllerByID()
+#1 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Module->createController()
+#2 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#3 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#4 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#5 /home/yar0s/Projects/chat/chat-back/yii(20): yii\base\Application->run()
+#6 {main}
+[Console] 13:49:29 : WebSocket server started
+Exception 'yii\base\InvalidConfigException' with message 'Controller class must extend from \yii\base\Controller.'
+
+in /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php:651
+
+Stack trace:
+#0 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php(602): yii\base\Module->createControllerByID()
+#1 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Module->createController()
+#2 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#3 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#4 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#5 /home/yar0s/Projects/chat/chat-back/yii(20): yii\base\Application->run()
+#6 {main}
+[Console] 13:49:29 : WebSocket server started
+Exception 'yii\base\InvalidConfigException' with message 'Controller class must extend from \yii\base\Controller.'
+
+in /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php:651
+
+Stack trace:
+#0 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php(602): yii\base\Module->createControllerByID()
+#1 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Module->createController()
+#2 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#3 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#4 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#5 /home/yar0s/Projects/chat/chat-back/yii(20): yii\base\Application->run()
+#6 {main}
+[Console] 13:49:29 : WebSocket server started
+Exception 'yii\base\InvalidConfigException' with message 'Controller class must extend from \yii\base\Controller.'
+
+in /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php:651
+
+Stack trace:
+#0 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php(602): yii\base\Module->createControllerByID()
+#1 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Module->createController()
+#2 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#3 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#4 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#5 /home/yar0s/Projects/chat/chat-back/yii(20): yii\base\Application->run()
+#6 {main}
+[Console] 13:49:29 : WebSocket server started
+Exception 'yii\base\InvalidConfigException' with message 'Controller class must extend from \yii\base\Controller.'
+
+in /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php:651
+
+Stack trace:
+#0 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php(602): yii\base\Module->createControllerByID()
+#1 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Module->createController()
+#2 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#3 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#4 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#5 /home/yar0s/Projects/chat/chat-back/yii(20): yii\base\Application->run()
+#6 {main}
+[Console] 13:49:29 : WebSocket server started
+Exception 'yii\base\InvalidConfigException' with message 'Controller class must extend from \yii\base\Controller.'
+
+in /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php:651
+
+Stack trace:
+#0 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php(602): yii\base\Module->createControllerByID()
+#1 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Module->createController()
+#2 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#3 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#4 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#5 /home/yar0s/Projects/chat/chat-back/yii(20): yii\base\Application->run()
+#6 {main}
+[Console] 13:49:29 : WebSocket server started
+Exception 'yii\base\InvalidConfigException' with message 'Controller class must extend from \yii\base\Controller.'
+
+in /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php:651
+
+Stack trace:
+#0 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php(602): yii\base\Module->createControllerByID()
+#1 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Module->createController()
+#2 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#3 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#4 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#5 /home/yar0s/Projects/chat/chat-back/yii(20): yii\base\Application->run()
+#6 {main}
+[Console] 13:49:29 : WebSocket server started
+Exception 'yii\base\InvalidConfigException' with message 'Controller class must extend from \yii\base\Controller.'
+
+in /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php:651
+
+Stack trace:
+#0 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php(602): yii\base\Module->createControllerByID()
+#1 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Module->createController()
+#2 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#3 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#4 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#5 /home/yar0s/Projects/chat/chat-back/yii(20): yii\base\Application->run()
+#6 {main}
+[Console] 13:49:29 : WebSocket server started
+Exception 'yii\base\InvalidConfigException' with message 'Controller class must extend from \yii\base\Controller.'
+
+in /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php:651
+
+Stack trace:
+#0 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php(602): yii\base\Module->createControllerByID()
+#1 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Module->createController()
+#2 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#3 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#4 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#5 /home/yar0s/Projects/chat/chat-back/yii(20): yii\base\Application->run()
+#6 {main}
+[Console] 13:49:29 : WebSocket server started
+Exception 'yii\base\InvalidConfigException' with message 'Controller class must extend from \yii\base\Controller.'
+
+in /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php:651
+
+Stack trace:
+#0 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php(602): yii\base\Module->createControllerByID()
+#1 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Module->createController()
+#2 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#3 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#4 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#5 /home/yar0s/Projects/chat/chat-back/yii(20): yii\base\Application->run()
+#6 {main}
+[Console] 13:49:29 : WebSocket server started
+Exception 'yii\base\InvalidConfigException' with message 'Controller class must extend from \yii\base\Controller.'
+
+in /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php:651
+
+Stack trace:
+#0 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php(602): yii\base\Module->createControllerByID()
+#1 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Module->createController()
+#2 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#3 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#4 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#5 /home/yar0s/Projects/chat/chat-back/yii(20): yii\base\Application->run()
+#6 {main}
+[Console] 13:49:34 : WebSocket server started
+[Console] 13:49:44 : WebSocket server started
+MySQL Has gone away. Reconnecting...[Error] 10:50:04 : SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Name or service not known
+#0 /home/yar0s/Projects/chat/chat-back/yii2-yiisockets/src/server/SocketServer.php(290): yii\db\Connection->open()
+#1 /home/yar0s/Projects/chat/chat-back/yii2-yiisockets/src/server/SocketServer.php(57): blackbes\yiisockets\server\SocketServer->testDBConnection()
+#2 /home/yar0s/Projects/chat/chat-back/vendor/cboden/ratchet/src/Ratchet/WebSocket/WsServer.php(142): blackbes\yiisockets\server\SocketServer->onOpen()
+#3 /home/yar0s/Projects/chat/chat-back/vendor/cboden/ratchet/src/Ratchet/Http/HttpServer.php(51): Ratchet\WebSocket\WsServer->onOpen()
+#4 /home/yar0s/Projects/chat/chat-back/vendor/cboden/ratchet/src/Ratchet/Server/IoServer.php(112): Ratchet\Http\HttpServer->onMessage()
+#5 /home/yar0s/Projects/chat/chat-back/vendor/cboden/ratchet/src/Ratchet/Server/IoServer.php(95): Ratchet\Server\IoServer->handleData()
+#6 /home/yar0s/Projects/chat/chat-back/vendor/evenement/evenement/src/Evenement/EventEmitterTrait.php(123): Ratchet\Server\IoServer->Ratchet\Server\{closure}()
+#7 /home/yar0s/Projects/chat/chat-back/vendor/react/stream/src/Util.php(71): Evenement\EventEmitter->emit()
+#8 /home/yar0s/Projects/chat/chat-back/vendor/evenement/evenement/src/Evenement/EventEmitterTrait.php(123): React\Stream\Util::React\Stream\{closure}()
+#9 /home/yar0s/Projects/chat/chat-back/vendor/react/stream/src/DuplexResourceStream.php(193): Evenement\EventEmitter->emit()
+#10 /home/yar0s/Projects/chat/chat-back/vendor/react/event-loop/src/StreamSelectLoop.php(245): React\Stream\DuplexResourceStream->handleData()
+#11 /home/yar0s/Projects/chat/chat-back/vendor/react/event-loop/src/StreamSelectLoop.php(212): React\EventLoop\StreamSelectLoop->waitForStreamActivity()
+#12 /home/yar0s/Projects/chat/chat-back/vendor/cboden/ratchet/src/Ratchet/Server/IoServer.php(74): React\EventLoop\StreamSelectLoop->run()
+#13 /home/yar0s/Projects/chat/chat-back/commands/SocketController.php(33): Ratchet\Server\IoServer->run()
+#14 [internal function]: app\commands\SocketController->actionStartSocket()
+#15 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/InlineAction.php(57): call_user_func_array()
+#16 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Controller.php(181): yii\base\InlineAction->runWithParams()
+#17 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Controller.php(184): yii\base\Controller->runAction()
+#18 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php(534): yii\console\Controller->runAction()
+#19 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#20 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#21 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#22 /home/yar0s/Projects/chat/chat-back/yii(20): yii\base\Application->run()
+#23 {main}PHP Fatal error:  Cannot declare class ChatController, because the name is already in use in /home/yar0s/Projects/chat/chat-back/sockets/ChatController.php on line 7
+PHP Compile Error 'yii\base\ErrorException' with message 'Cannot declare class ChatController, because the name is already in use'
+
+in /home/yar0s/Projects/chat/chat-back/sockets/ChatController.php:7
+
+Stack trace:
+#0 [internal function]: yii\base\ErrorHandler->handleFatalError()
+#1 {main}
+[Console] 13:50:07 : WebSocket server started
+[Console] 13:51:04 : WebSocket server started
+MySQL Has gone away. Reconnecting...[Error] 10:51:18 : SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Name or service not known
+#0 /home/yar0s/Projects/chat/chat-back/yii2-yiisockets/src/server/SocketServer.php(290): yii\db\Connection->open()
+#1 /home/yar0s/Projects/chat/chat-back/yii2-yiisockets/src/server/SocketServer.php(57): blackbes\yiisockets\server\SocketServer->testDBConnection()
+#2 /home/yar0s/Projects/chat/chat-back/vendor/cboden/ratchet/src/Ratchet/WebSocket/WsServer.php(142): blackbes\yiisockets\server\SocketServer->onOpen()
+#3 /home/yar0s/Projects/chat/chat-back/vendor/cboden/ratchet/src/Ratchet/Http/HttpServer.php(51): Ratchet\WebSocket\WsServer->onOpen()
+#4 /home/yar0s/Projects/chat/chat-back/vendor/cboden/ratchet/src/Ratchet/Server/IoServer.php(112): Ratchet\Http\HttpServer->onMessage()
+#5 /home/yar0s/Projects/chat/chat-back/vendor/cboden/ratchet/src/Ratchet/Server/IoServer.php(95): Ratchet\Server\IoServer->handleData()
+#6 /home/yar0s/Projects/chat/chat-back/vendor/evenement/evenement/src/Evenement/EventEmitterTrait.php(123): Ratchet\Server\IoServer->Ratchet\Server\{closure}()
+#7 /home/yar0s/Projects/chat/chat-back/vendor/react/stream/src/Util.php(71): Evenement\EventEmitter->emit()
+#8 /home/yar0s/Projects/chat/chat-back/vendor/evenement/evenement/src/Evenement/EventEmitterTrait.php(123): React\Stream\Util::React\Stream\{closure}()
+#9 /home/yar0s/Projects/chat/chat-back/vendor/react/stream/src/DuplexResourceStream.php(193): Evenement\EventEmitter->emit()
+#10 /home/yar0s/Projects/chat/chat-back/vendor/react/event-loop/src/StreamSelectLoop.php(245): React\Stream\DuplexResourceStream->handleData()
+#11 /home/yar0s/Projects/chat/chat-back/vendor/react/event-loop/src/StreamSelectLoop.php(212): React\EventLoop\StreamSelectLoop->waitForStreamActivity()
+#12 /home/yar0s/Projects/chat/chat-back/vendor/cboden/ratchet/src/Ratchet/Server/IoServer.php(74): React\EventLoop\StreamSelectLoop->run()
+#13 /home/yar0s/Projects/chat/chat-back/commands/SocketController.php(33): Ratchet\Server\IoServer->run()
+#14 [internal function]: app\commands\SocketController->actionStartSocket()
+#15 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/InlineAction.php(57): call_user_func_array()
+#16 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Controller.php(181): yii\base\InlineAction->runWithParams()
+#17 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Controller.php(184): yii\base\Controller->runAction()
+#18 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php(534): yii\console\Controller->runAction()
+#19 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#20 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#21 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#22 /home/yar0s/Projects/chat/chat-back/yii(20): yii\base\Application->run()
+#23 {main}MySQL Has gone away. Reconnecting...[Error] 10:51:51 : SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Name or service not known
+#0 /home/yar0s/Projects/chat/chat-back/yii2-yiisockets/src/server/SocketServer.php(290): yii\db\Connection->open()
+#1 /home/yar0s/Projects/chat/chat-back/yii2-yiisockets/src/server/SocketServer.php(57): blackbes\yiisockets\server\SocketServer->testDBConnection()
+#2 /home/yar0s/Projects/chat/chat-back/vendor/cboden/ratchet/src/Ratchet/WebSocket/WsServer.php(142): blackbes\yiisockets\server\SocketServer->onOpen()
+#3 /home/yar0s/Projects/chat/chat-back/vendor/cboden/ratchet/src/Ratchet/Http/HttpServer.php(51): Ratchet\WebSocket\WsServer->onOpen()
+#4 /home/yar0s/Projects/chat/chat-back/vendor/cboden/ratchet/src/Ratchet/Server/IoServer.php(112): Ratchet\Http\HttpServer->onMessage()
+#5 /home/yar0s/Projects/chat/chat-back/vendor/cboden/ratchet/src/Ratchet/Server/IoServer.php(95): Ratchet\Server\IoServer->handleData()
+#6 /home/yar0s/Projects/chat/chat-back/vendor/evenement/evenement/src/Evenement/EventEmitterTrait.php(123): Ratchet\Server\IoServer->Ratchet\Server\{closure}()
+#7 /home/yar0s/Projects/chat/chat-back/vendor/react/stream/src/Util.php(71): Evenement\EventEmitter->emit()
+#8 /home/yar0s/Projects/chat/chat-back/vendor/evenement/evenement/src/Evenement/EventEmitterTrait.php(123): React\Stream\Util::React\Stream\{closure}()
+#9 /home/yar0s/Projects/chat/chat-back/vendor/react/stream/src/DuplexResourceStream.php(193): Evenement\EventEmitter->emit()
+#10 /home/yar0s/Projects/chat/chat-back/vendor/react/event-loop/src/StreamSelectLoop.php(245): React\Stream\DuplexResourceStream->handleData()
+#11 /home/yar0s/Projects/chat/chat-back/vendor/react/event-loop/src/StreamSelectLoop.php(212): React\EventLoop\StreamSelectLoop->waitForStreamActivity()
+#12 /home/yar0s/Projects/chat/chat-back/vendor/cboden/ratchet/src/Ratchet/Server/IoServer.php(74): React\EventLoop\StreamSelectLoop->run()
+#13 /home/yar0s/Projects/chat/chat-back/commands/SocketController.php(33): Ratchet\Server\IoServer->run()
+#14 [internal function]: app\commands\SocketController->actionStartSocket()
+#15 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/InlineAction.php(57): call_user_func_array()
+#16 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Controller.php(181): yii\base\InlineAction->runWithParams()
+#17 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Controller.php(184): yii\base\Controller->runAction()
+#18 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php(534): yii\console\Controller->runAction()
+#19 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#20 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#21 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#22 /home/yar0s/Projects/chat/chat-back/yii(20): yii\base\Application->run()
+#23 {main}MySQL Has gone away. Reconnecting...[Error] 10:51:55 : SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Name or service not known
+#0 /home/yar0s/Projects/chat/chat-back/yii2-yiisockets/src/server/SocketServer.php(290): yii\db\Connection->open()
+#1 /home/yar0s/Projects/chat/chat-back/yii2-yiisockets/src/server/SocketServer.php(57): blackbes\yiisockets\server\SocketServer->testDBConnection()
+#2 /home/yar0s/Projects/chat/chat-back/vendor/cboden/ratchet/src/Ratchet/WebSocket/WsServer.php(142): blackbes\yiisockets\server\SocketServer->onOpen()
+#3 /home/yar0s/Projects/chat/chat-back/vendor/cboden/ratchet/src/Ratchet/Http/HttpServer.php(51): Ratchet\WebSocket\WsServer->onOpen()
+#4 /home/yar0s/Projects/chat/chat-back/vendor/cboden/ratchet/src/Ratchet/Server/IoServer.php(112): Ratchet\Http\HttpServer->onMessage()
+#5 /home/yar0s/Projects/chat/chat-back/vendor/cboden/ratchet/src/Ratchet/Server/IoServer.php(95): Ratchet\Server\IoServer->handleData()
+#6 /home/yar0s/Projects/chat/chat-back/vendor/evenement/evenement/src/Evenement/EventEmitterTrait.php(123): Ratchet\Server\IoServer->Ratchet\Server\{closure}()
+#7 /home/yar0s/Projects/chat/chat-back/vendor/react/stream/src/Util.php(71): Evenement\EventEmitter->emit()
+#8 /home/yar0s/Projects/chat/chat-back/vendor/evenement/evenement/src/Evenement/EventEmitterTrait.php(123): React\Stream\Util::React\Stream\{closure}()
+#9 /home/yar0s/Projects/chat/chat-back/vendor/react/stream/src/DuplexResourceStream.php(193): Evenement\EventEmitter->emit()
+#10 /home/yar0s/Projects/chat/chat-back/vendor/react/event-loop/src/StreamSelectLoop.php(245): React\Stream\DuplexResourceStream->handleData()
+#11 /home/yar0s/Projects/chat/chat-back/vendor/react/event-loop/src/StreamSelectLoop.php(212): React\EventLoop\StreamSelectLoop->waitForStreamActivity()
+#12 /home/yar0s/Projects/chat/chat-back/vendor/cboden/ratchet/src/Ratchet/Server/IoServer.php(74): React\EventLoop\StreamSelectLoop->run()
+#13 /home/yar0s/Projects/chat/chat-back/commands/SocketController.php(33): Ratchet\Server\IoServer->run()
+#14 [internal function]: app\commands\SocketController->actionStartSocket()
+#15 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/InlineAction.php(57): call_user_func_array()
+#16 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Controller.php(181): yii\base\InlineAction->runWithParams()
+#17 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Controller.php(184): yii\base\Controller->runAction()
+#18 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php(534): yii\console\Controller->runAction()
+#19 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#20 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#21 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#22 /home/yar0s/Projects/chat/chat-back/yii(20): yii\base\Application->run()
+#23 {main}MySQL Has gone away. Reconnecting...[Error] 10:52:01 : SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Name or service not known
+#0 /home/yar0s/Projects/chat/chat-back/yii2-yiisockets/src/server/SocketServer.php(290): yii\db\Connection->open()
+#1 /home/yar0s/Projects/chat/chat-back/yii2-yiisockets/src/server/SocketServer.php(57): blackbes\yiisockets\server\SocketServer->testDBConnection()
+#2 /home/yar0s/Projects/chat/chat-back/vendor/cboden/ratchet/src/Ratchet/WebSocket/WsServer.php(142): blackbes\yiisockets\server\SocketServer->onOpen()
+#3 /home/yar0s/Projects/chat/chat-back/vendor/cboden/ratchet/src/Ratchet/Http/HttpServer.php(51): Ratchet\WebSocket\WsServer->onOpen()
+#4 /home/yar0s/Projects/chat/chat-back/vendor/cboden/ratchet/src/Ratchet/Server/IoServer.php(112): Ratchet\Http\HttpServer->onMessage()
+#5 /home/yar0s/Projects/chat/chat-back/vendor/cboden/ratchet/src/Ratchet/Server/IoServer.php(95): Ratchet\Server\IoServer->handleData()
+#6 /home/yar0s/Projects/chat/chat-back/vendor/evenement/evenement/src/Evenement/EventEmitterTrait.php(123): Ratchet\Server\IoServer->Ratchet\Server\{closure}()
+#7 /home/yar0s/Projects/chat/chat-back/vendor/react/stream/src/Util.php(71): Evenement\EventEmitter->emit()
+#8 /home/yar0s/Projects/chat/chat-back/vendor/evenement/evenement/src/Evenement/EventEmitterTrait.php(123): React\Stream\Util::React\Stream\{closure}()
+#9 /home/yar0s/Projects/chat/chat-back/vendor/react/stream/src/DuplexResourceStream.php(193): Evenement\EventEmitter->emit()
+#10 /home/yar0s/Projects/chat/chat-back/vendor/react/event-loop/src/StreamSelectLoop.php(245): React\Stream\DuplexResourceStream->handleData()
+#11 /home/yar0s/Projects/chat/chat-back/vendor/react/event-loop/src/StreamSelectLoop.php(212): React\EventLoop\StreamSelectLoop->waitForStreamActivity()
+#12 /home/yar0s/Projects/chat/chat-back/vendor/cboden/ratchet/src/Ratchet/Server/IoServer.php(74): React\EventLoop\StreamSelectLoop->run()
+#13 /home/yar0s/Projects/chat/chat-back/commands/SocketController.php(33): Ratchet\Server\IoServer->run()
+#14 [internal function]: app\commands\SocketController->actionStartSocket()
+#15 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/InlineAction.php(57): call_user_func_array()
+#16 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Controller.php(181): yii\base\InlineAction->runWithParams()
+#17 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Controller.php(184): yii\base\Controller->runAction()
+#18 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php(534): yii\console\Controller->runAction()
+#19 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#20 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#21 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#22 /home/yar0s/Projects/chat/chat-back/yii(20): yii\base\Application->run()
+#23 {main}MySQL Has gone away. Reconnecting...[Error] 10:52:38 : SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Name or service not known
+#0 /home/yar0s/Projects/chat/chat-back/yii2-yiisockets/src/server/SocketServer.php(290): yii\db\Connection->open()
+#1 /home/yar0s/Projects/chat/chat-back/yii2-yiisockets/src/server/SocketServer.php(57): blackbes\yiisockets\server\SocketServer->testDBConnection()
+#2 /home/yar0s/Projects/chat/chat-back/vendor/cboden/ratchet/src/Ratchet/WebSocket/WsServer.php(142): blackbes\yiisockets\server\SocketServer->onOpen()
+#3 /home/yar0s/Projects/chat/chat-back/vendor/cboden/ratchet/src/Ratchet/Http/HttpServer.php(51): Ratchet\WebSocket\WsServer->onOpen()
+#4 /home/yar0s/Projects/chat/chat-back/vendor/cboden/ratchet/src/Ratchet/Server/IoServer.php(112): Ratchet\Http\HttpServer->onMessage()
+#5 /home/yar0s/Projects/chat/chat-back/vendor/cboden/ratchet/src/Ratchet/Server/IoServer.php(95): Ratchet\Server\IoServer->handleData()
+#6 /home/yar0s/Projects/chat/chat-back/vendor/evenement/evenement/src/Evenement/EventEmitterTrait.php(123): Ratchet\Server\IoServer->Ratchet\Server\{closure}()
+#7 /home/yar0s/Projects/chat/chat-back/vendor/react/stream/src/Util.php(71): Evenement\EventEmitter->emit()
+#8 /home/yar0s/Projects/chat/chat-back/vendor/evenement/evenement/src/Evenement/EventEmitterTrait.php(123): React\Stream\Util::React\Stream\{closure}()
+#9 /home/yar0s/Projects/chat/chat-back/vendor/react/stream/src/DuplexResourceStream.php(193): Evenement\EventEmitter->emit()
+#10 /home/yar0s/Projects/chat/chat-back/vendor/react/event-loop/src/StreamSelectLoop.php(245): React\Stream\DuplexResourceStream->handleData()
+#11 /home/yar0s/Projects/chat/chat-back/vendor/react/event-loop/src/StreamSelectLoop.php(212): React\EventLoop\StreamSelectLoop->waitForStreamActivity()
+#12 /home/yar0s/Projects/chat/chat-back/vendor/cboden/ratchet/src/Ratchet/Server/IoServer.php(74): React\EventLoop\StreamSelectLoop->run()
+#13 /home/yar0s/Projects/chat/chat-back/commands/SocketController.php(33): Ratchet\Server\IoServer->run()
+#14 [internal function]: app\commands\SocketController->actionStartSocket()
+#15 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/InlineAction.php(57): call_user_func_array()
+#16 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Controller.php(181): yii\base\InlineAction->runWithParams()
+#17 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Controller.php(184): yii\base\Controller->runAction()
+#18 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php(534): yii\console\Controller->runAction()
+#19 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#20 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#21 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#22 /home/yar0s/Projects/chat/chat-back/yii(20): yii\base\Application->run()
+#23 {main}[Console] 14:22:19 : WebSocket server started
+[Console] 14:23:28 : WebSocket server started
+[Error] 11:32:00 : Wrong user login token.
+#0 [internal function]: yii\base\ErrorHandler->handleError()
+#1 /home/yar0s/Projects/chat/chat-back/yii2-yiisockets/src/server/SocketServer.php(106): trigger_error()
+#2 /home/yar0s/Projects/chat/chat-back/vendor/cboden/ratchet/src/Ratchet/WebSocket/WsServer.php(142): blackbes\yiisockets\server\SocketServer->onOpen()
+#3 /home/yar0s/Projects/chat/chat-back/vendor/cboden/ratchet/src/Ratchet/Http/HttpServer.php(51): Ratchet\WebSocket\WsServer->onOpen()
+#4 /home/yar0s/Projects/chat/chat-back/vendor/cboden/ratchet/src/Ratchet/Server/IoServer.php(112): Ratchet\Http\HttpServer->onMessage()
+#5 /home/yar0s/Projects/chat/chat-back/vendor/cboden/ratchet/src/Ratchet/Server/IoServer.php(95): Ratchet\Server\IoServer->handleData()
+#6 /home/yar0s/Projects/chat/chat-back/vendor/evenement/evenement/src/Evenement/EventEmitterTrait.php(123): Ratchet\Server\IoServer->Ratchet\Server\{closure}()
+#7 /home/yar0s/Projects/chat/chat-back/vendor/react/stream/src/Util.php(71): Evenement\EventEmitter->emit()
+#8 /home/yar0s/Projects/chat/chat-back/vendor/evenement/evenement/src/Evenement/EventEmitterTrait.php(123): React\Stream\Util::React\Stream\{closure}()
+#9 /home/yar0s/Projects/chat/chat-back/vendor/react/stream/src/DuplexResourceStream.php(193): Evenement\EventEmitter->emit()
+#10 /home/yar0s/Projects/chat/chat-back/vendor/react/event-loop/src/StreamSelectLoop.php(245): React\Stream\DuplexResourceStream->handleData()
+#11 /home/yar0s/Projects/chat/chat-back/vendor/react/event-loop/src/StreamSelectLoop.php(212): React\EventLoop\StreamSelectLoop->waitForStreamActivity()
+#12 /home/yar0s/Projects/chat/chat-back/vendor/cboden/ratchet/src/Ratchet/Server/IoServer.php(74): React\EventLoop\StreamSelectLoop->run()
+#13 /home/yar0s/Projects/chat/chat-back/commands/SocketController.php(33): Ratchet\Server\IoServer->run()
+#14 [internal function]: app\commands\SocketController->actionStartSocket()
+#15 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/InlineAction.php(57): call_user_func_array()
+#16 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Controller.php(181): yii\base\InlineAction->runWithParams()
+#17 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Controller.php(184): yii\base\Controller->runAction()
+#18 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php(534): yii\console\Controller->runAction()
+#19 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#20 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#21 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#22 /home/yar0s/Projects/chat/chat-back/yii(20): yii\base\Application->run()
+#23 {main}[Error] 11:32:50 : Wrong user login token.
+#0 [internal function]: yii\base\ErrorHandler->handleError()
+#1 /home/yar0s/Projects/chat/chat-back/yii2-yiisockets/src/server/SocketServer.php(106): trigger_error()
+#2 /home/yar0s/Projects/chat/chat-back/vendor/cboden/ratchet/src/Ratchet/WebSocket/WsServer.php(142): blackbes\yiisockets\server\SocketServer->onOpen()
+#3 /home/yar0s/Projects/chat/chat-back/vendor/cboden/ratchet/src/Ratchet/Http/HttpServer.php(51): Ratchet\WebSocket\WsServer->onOpen()
+#4 /home/yar0s/Projects/chat/chat-back/vendor/cboden/ratchet/src/Ratchet/Server/IoServer.php(112): Ratchet\Http\HttpServer->onMessage()
+#5 /home/yar0s/Projects/chat/chat-back/vendor/cboden/ratchet/src/Ratchet/Server/IoServer.php(95): Ratchet\Server\IoServer->handleData()
+#6 /home/yar0s/Projects/chat/chat-back/vendor/evenement/evenement/src/Evenement/EventEmitterTrait.php(123): Ratchet\Server\IoServer->Ratchet\Server\{closure}()
+#7 /home/yar0s/Projects/chat/chat-back/vendor/react/stream/src/Util.php(71): Evenement\EventEmitter->emit()
+#8 /home/yar0s/Projects/chat/chat-back/vendor/evenement/evenement/src/Evenement/EventEmitterTrait.php(123): React\Stream\Util::React\Stream\{closure}()
+#9 /home/yar0s/Projects/chat/chat-back/vendor/react/stream/src/DuplexResourceStream.php(193): Evenement\EventEmitter->emit()
+#10 /home/yar0s/Projects/chat/chat-back/vendor/react/event-loop/src/StreamSelectLoop.php(245): React\Stream\DuplexResourceStream->handleData()
+#11 /home/yar0s/Projects/chat/chat-back/vendor/react/event-loop/src/StreamSelectLoop.php(212): React\EventLoop\StreamSelectLoop->waitForStreamActivity()
+#12 /home/yar0s/Projects/chat/chat-back/vendor/cboden/ratchet/src/Ratchet/Server/IoServer.php(74): React\EventLoop\StreamSelectLoop->run()
+#13 /home/yar0s/Projects/chat/chat-back/commands/SocketController.php(33): Ratchet\Server\IoServer->run()
+#14 [internal function]: app\commands\SocketController->actionStartSocket()
+#15 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/InlineAction.php(57): call_user_func_array()
+#16 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Controller.php(181): yii\base\InlineAction->runWithParams()
+#17 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Controller.php(184): yii\base\Controller->runAction()
+#18 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php(534): yii\console\Controller->runAction()
+#19 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#20 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#21 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#22 /home/yar0s/Projects/chat/chat-back/yii(20): yii\base\Application->run()
+#23 {main}[Error] 11:32:58 : Wrong user login token.
+#0 [internal function]: yii\base\ErrorHandler->handleError()
+#1 /home/yar0s/Projects/chat/chat-back/yii2-yiisockets/src/server/SocketServer.php(106): trigger_error()
+#2 /home/yar0s/Projects/chat/chat-back/vendor/cboden/ratchet/src/Ratchet/WebSocket/WsServer.php(142): blackbes\yiisockets\server\SocketServer->onOpen()
+#3 /home/yar0s/Projects/chat/chat-back/vendor/cboden/ratchet/src/Ratchet/Http/HttpServer.php(51): Ratchet\WebSocket\WsServer->onOpen()
+#4 /home/yar0s/Projects/chat/chat-back/vendor/cboden/ratchet/src/Ratchet/Server/IoServer.php(112): Ratchet\Http\HttpServer->onMessage()
+#5 /home/yar0s/Projects/chat/chat-back/vendor/cboden/ratchet/src/Ratchet/Server/IoServer.php(95): Ratchet\Server\IoServer->handleData()
+#6 /home/yar0s/Projects/chat/chat-back/vendor/evenement/evenement/src/Evenement/EventEmitterTrait.php(123): Ratchet\Server\IoServer->Ratchet\Server\{closure}()
+#7 /home/yar0s/Projects/chat/chat-back/vendor/react/stream/src/Util.php(71): Evenement\EventEmitter->emit()
+#8 /home/yar0s/Projects/chat/chat-back/vendor/evenement/evenement/src/Evenement/EventEmitterTrait.php(123): React\Stream\Util::React\Stream\{closure}()
+#9 /home/yar0s/Projects/chat/chat-back/vendor/react/stream/src/DuplexResourceStream.php(193): Evenement\EventEmitter->emit()
+#10 /home/yar0s/Projects/chat/chat-back/vendor/react/event-loop/src/StreamSelectLoop.php(245): React\Stream\DuplexResourceStream->handleData()
+#11 /home/yar0s/Projects/chat/chat-back/vendor/react/event-loop/src/StreamSelectLoop.php(212): React\EventLoop\StreamSelectLoop->waitForStreamActivity()
+#12 /home/yar0s/Projects/chat/chat-back/vendor/cboden/ratchet/src/Ratchet/Server/IoServer.php(74): React\EventLoop\StreamSelectLoop->run()
+#13 /home/yar0s/Projects/chat/chat-back/commands/SocketController.php(33): Ratchet\Server\IoServer->run()
+#14 [internal function]: app\commands\SocketController->actionStartSocket()
+#15 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/InlineAction.php(57): call_user_func_array()
+#16 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Controller.php(181): yii\base\InlineAction->runWithParams()
+#17 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Controller.php(184): yii\base\Controller->runAction()
+#18 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php(534): yii\console\Controller->runAction()
+#19 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#20 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#21 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#22 /home/yar0s/Projects/chat/chat-back/yii(20): yii\base\Application->run()
+#23 {main}[Error] 11:34:14 : Wrong user login token.
+#0 [internal function]: yii\base\ErrorHandler->handleError()
+#1 /home/yar0s/Projects/chat/chat-back/yii2-yiisockets/src/server/SocketServer.php(106): trigger_error()
+#2 /home/yar0s/Projects/chat/chat-back/vendor/cboden/ratchet/src/Ratchet/WebSocket/WsServer.php(142): blackbes\yiisockets\server\SocketServer->onOpen()
+#3 /home/yar0s/Projects/chat/chat-back/vendor/cboden/ratchet/src/Ratchet/Http/HttpServer.php(51): Ratchet\WebSocket\WsServer->onOpen()
+#4 /home/yar0s/Projects/chat/chat-back/vendor/cboden/ratchet/src/Ratchet/Server/IoServer.php(112): Ratchet\Http\HttpServer->onMessage()
+#5 /home/yar0s/Projects/chat/chat-back/vendor/cboden/ratchet/src/Ratchet/Server/IoServer.php(95): Ratchet\Server\IoServer->handleData()
+#6 /home/yar0s/Projects/chat/chat-back/vendor/evenement/evenement/src/Evenement/EventEmitterTrait.php(123): Ratchet\Server\IoServer->Ratchet\Server\{closure}()
+#7 /home/yar0s/Projects/chat/chat-back/vendor/react/stream/src/Util.php(71): Evenement\EventEmitter->emit()
+#8 /home/yar0s/Projects/chat/chat-back/vendor/evenement/evenement/src/Evenement/EventEmitterTrait.php(123): React\Stream\Util::React\Stream\{closure}()
+#9 /home/yar0s/Projects/chat/chat-back/vendor/react/stream/src/DuplexResourceStream.php(193): Evenement\EventEmitter->emit()
+#10 /home/yar0s/Projects/chat/chat-back/vendor/react/event-loop/src/StreamSelectLoop.php(245): React\Stream\DuplexResourceStream->handleData()
+#11 /home/yar0s/Projects/chat/chat-back/vendor/react/event-loop/src/StreamSelectLoop.php(212): React\EventLoop\StreamSelectLoop->waitForStreamActivity()
+#12 /home/yar0s/Projects/chat/chat-back/vendor/cboden/ratchet/src/Ratchet/Server/IoServer.php(74): React\EventLoop\StreamSelectLoop->run()
+#13 /home/yar0s/Projects/chat/chat-back/commands/SocketController.php(33): Ratchet\Server\IoServer->run()
+#14 [internal function]: app\commands\SocketController->actionStartSocket()
+#15 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/InlineAction.php(57): call_user_func_array()
+#16 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Controller.php(181): yii\base\InlineAction->runWithParams()
+#17 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Controller.php(184): yii\base\Controller->runAction()
+#18 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php(534): yii\console\Controller->runAction()
+#19 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#20 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#21 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#22 /home/yar0s/Projects/chat/chat-back/yii(20): yii\base\Application->run()
+#23 {main}[Error] 11:35:08 : Wrong user login token.
+#0 [internal function]: yii\base\ErrorHandler->handleError()
+#1 /home/yar0s/Projects/chat/chat-back/yii2-yiisockets/src/server/SocketServer.php(106): trigger_error()
+#2 /home/yar0s/Projects/chat/chat-back/vendor/cboden/ratchet/src/Ratchet/WebSocket/WsServer.php(142): blackbes\yiisockets\server\SocketServer->onOpen()
+#3 /home/yar0s/Projects/chat/chat-back/vendor/cboden/ratchet/src/Ratchet/Http/HttpServer.php(51): Ratchet\WebSocket\WsServer->onOpen()
+#4 /home/yar0s/Projects/chat/chat-back/vendor/cboden/ratchet/src/Ratchet/Server/IoServer.php(112): Ratchet\Http\HttpServer->onMessage()
+#5 /home/yar0s/Projects/chat/chat-back/vendor/cboden/ratchet/src/Ratchet/Server/IoServer.php(95): Ratchet\Server\IoServer->handleData()
+#6 /home/yar0s/Projects/chat/chat-back/vendor/evenement/evenement/src/Evenement/EventEmitterTrait.php(123): Ratchet\Server\IoServer->Ratchet\Server\{closure}()
+#7 /home/yar0s/Projects/chat/chat-back/vendor/react/stream/src/Util.php(71): Evenement\EventEmitter->emit()
+#8 /home/yar0s/Projects/chat/chat-back/vendor/evenement/evenement/src/Evenement/EventEmitterTrait.php(123): React\Stream\Util::React\Stream\{closure}()
+#9 /home/yar0s/Projects/chat/chat-back/vendor/react/stream/src/DuplexResourceStream.php(193): Evenement\EventEmitter->emit()
+#10 /home/yar0s/Projects/chat/chat-back/vendor/react/event-loop/src/StreamSelectLoop.php(245): React\Stream\DuplexResourceStream->handleData()
+#11 /home/yar0s/Projects/chat/chat-back/vendor/react/event-loop/src/StreamSelectLoop.php(212): React\EventLoop\StreamSelectLoop->waitForStreamActivity()
+#12 /home/yar0s/Projects/chat/chat-back/vendor/cboden/ratchet/src/Ratchet/Server/IoServer.php(74): React\EventLoop\StreamSelectLoop->run()
+#13 /home/yar0s/Projects/chat/chat-back/commands/SocketController.php(33): Ratchet\Server\IoServer->run()
+#14 [internal function]: app\commands\SocketController->actionStartSocket()
+#15 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/InlineAction.php(57): call_user_func_array()
+#16 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Controller.php(181): yii\base\InlineAction->runWithParams()
+#17 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Controller.php(184): yii\base\Controller->runAction()
+#18 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php(534): yii\console\Controller->runAction()
+#19 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#20 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#21 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#22 /home/yar0s/Projects/chat/chat-back/yii(20): yii\base\Application->run()
+#23 {main}[Console] 14:35:23 : WebSocket server started
+[Error] 11:35:34 : Getting unknown property: yii\console\Application::user
+#0 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/di/ServiceLocator.php(77): yii\base\Component->__get()
+#1 /home/yar0s/Projects/chat/chat-back/yii2-yiisockets/src/server/SocketServer.php(75): yii\di\ServiceLocator->__get()
+#2 /home/yar0s/Projects/chat/chat-back/vendor/cboden/ratchet/src/Ratchet/WebSocket/WsServer.php(142): blackbes\yiisockets\server\SocketServer->onOpen()
+#3 /home/yar0s/Projects/chat/chat-back/vendor/cboden/ratchet/src/Ratchet/Http/HttpServer.php(51): Ratchet\WebSocket\WsServer->onOpen()
+#4 /home/yar0s/Projects/chat/chat-back/vendor/cboden/ratchet/src/Ratchet/Server/IoServer.php(112): Ratchet\Http\HttpServer->onMessage()
+#5 /home/yar0s/Projects/chat/chat-back/vendor/cboden/ratchet/src/Ratchet/Server/IoServer.php(95): Ratchet\Server\IoServer->handleData()
+#6 /home/yar0s/Projects/chat/chat-back/vendor/evenement/evenement/src/Evenement/EventEmitterTrait.php(123): Ratchet\Server\IoServer->Ratchet\Server\{closure}()
+#7 /home/yar0s/Projects/chat/chat-back/vendor/react/stream/src/Util.php(71): Evenement\EventEmitter->emit()
+#8 /home/yar0s/Projects/chat/chat-back/vendor/evenement/evenement/src/Evenement/EventEmitterTrait.php(123): React\Stream\Util::React\Stream\{closure}()
+#9 /home/yar0s/Projects/chat/chat-back/vendor/react/stream/src/DuplexResourceStream.php(193): Evenement\EventEmitter->emit()
+#10 /home/yar0s/Projects/chat/chat-back/vendor/react/event-loop/src/StreamSelectLoop.php(245): React\Stream\DuplexResourceStream->handleData()
+#11 /home/yar0s/Projects/chat/chat-back/vendor/react/event-loop/src/StreamSelectLoop.php(212): React\EventLoop\StreamSelectLoop->waitForStreamActivity()
+#12 /home/yar0s/Projects/chat/chat-back/vendor/cboden/ratchet/src/Ratchet/Server/IoServer.php(74): React\EventLoop\StreamSelectLoop->run()
+#13 /home/yar0s/Projects/chat/chat-back/commands/SocketController.php(33): Ratchet\Server\IoServer->run()
+#14 [internal function]: app\commands\SocketController->actionStartSocket()
+#15 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/InlineAction.php(57): call_user_func_array()
+#16 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Controller.php(181): yii\base\InlineAction->runWithParams()
+#17 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Controller.php(184): yii\base\Controller->runAction()
+#18 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php(534): yii\console\Controller->runAction()
+#19 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#20 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#21 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#22 /home/yar0s/Projects/chat/chat-back/yii(20): yii\base\Application->run()
+#23 {main}[Console] 14:36:33 : WebSocket server started
+[Error] 11:36:39 : Getting unknown property: yii\console\Application::user
+#0 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/di/ServiceLocator.php(77): yii\base\Component->__get()
+#1 /home/yar0s/Projects/chat/chat-back/yii2-yiisockets/src/server/SocketServer.php(75): yii\di\ServiceLocator->__get()
+#2 /home/yar0s/Projects/chat/chat-back/vendor/cboden/ratchet/src/Ratchet/WebSocket/WsServer.php(142): blackbes\yiisockets\server\SocketServer->onOpen()
+#3 /home/yar0s/Projects/chat/chat-back/vendor/cboden/ratchet/src/Ratchet/Http/HttpServer.php(51): Ratchet\WebSocket\WsServer->onOpen()
+#4 /home/yar0s/Projects/chat/chat-back/vendor/cboden/ratchet/src/Ratchet/Server/IoServer.php(112): Ratchet\Http\HttpServer->onMessage()
+#5 /home/yar0s/Projects/chat/chat-back/vendor/cboden/ratchet/src/Ratchet/Server/IoServer.php(95): Ratchet\Server\IoServer->handleData()
+#6 /home/yar0s/Projects/chat/chat-back/vendor/evenement/evenement/src/Evenement/EventEmitterTrait.php(123): Ratchet\Server\IoServer->Ratchet\Server\{closure}()
+#7 /home/yar0s/Projects/chat/chat-back/vendor/react/stream/src/Util.php(71): Evenement\EventEmitter->emit()
+#8 /home/yar0s/Projects/chat/chat-back/vendor/evenement/evenement/src/Evenement/EventEmitterTrait.php(123): React\Stream\Util::React\Stream\{closure}()
+#9 /home/yar0s/Projects/chat/chat-back/vendor/react/stream/src/DuplexResourceStream.php(193): Evenement\EventEmitter->emit()
+#10 /home/yar0s/Projects/chat/chat-back/vendor/react/event-loop/src/StreamSelectLoop.php(245): React\Stream\DuplexResourceStream->handleData()
+#11 /home/yar0s/Projects/chat/chat-back/vendor/react/event-loop/src/StreamSelectLoop.php(212): React\EventLoop\StreamSelectLoop->waitForStreamActivity()
+#12 /home/yar0s/Projects/chat/chat-back/vendor/cboden/ratchet/src/Ratchet/Server/IoServer.php(74): React\EventLoop\StreamSelectLoop->run()
+#13 /home/yar0s/Projects/chat/chat-back/commands/SocketController.php(33): Ratchet\Server\IoServer->run()
+#14 [internal function]: app\commands\SocketController->actionStartSocket()
+#15 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/InlineAction.php(57): call_user_func_array()
+#16 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Controller.php(181): yii\base\InlineAction->runWithParams()
+#17 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Controller.php(184): yii\base\Controller->runAction()
+#18 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php(534): yii\console\Controller->runAction()
+#19 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#20 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#21 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#22 /home/yar0s/Projects/chat/chat-back/yii(20): yii\base\Application->run()
+#23 {main}[Console] 14:37:30 : WebSocket server started
+[Error] 11:37:34 : Getting unknown property: yii\console\Application::user
+#0 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/di/ServiceLocator.php(77): yii\base\Component->__get()
+#1 /home/yar0s/Projects/chat/chat-back/yii2-yiisockets/src/server/SocketServer.php(75): yii\di\ServiceLocator->__get()
+#2 /home/yar0s/Projects/chat/chat-back/vendor/cboden/ratchet/src/Ratchet/WebSocket/WsServer.php(142): blackbes\yiisockets\server\SocketServer->onOpen()
+#3 /home/yar0s/Projects/chat/chat-back/vendor/cboden/ratchet/src/Ratchet/Http/HttpServer.php(51): Ratchet\WebSocket\WsServer->onOpen()
+#4 /home/yar0s/Projects/chat/chat-back/vendor/cboden/ratchet/src/Ratchet/Server/IoServer.php(112): Ratchet\Http\HttpServer->onMessage()
+#5 /home/yar0s/Projects/chat/chat-back/vendor/cboden/ratchet/src/Ratchet/Server/IoServer.php(95): Ratchet\Server\IoServer->handleData()
+#6 /home/yar0s/Projects/chat/chat-back/vendor/evenement/evenement/src/Evenement/EventEmitterTrait.php(123): Ratchet\Server\IoServer->Ratchet\Server\{closure}()
+#7 /home/yar0s/Projects/chat/chat-back/vendor/react/stream/src/Util.php(71): Evenement\EventEmitter->emit()
+#8 /home/yar0s/Projects/chat/chat-back/vendor/evenement/evenement/src/Evenement/EventEmitterTrait.php(123): React\Stream\Util::React\Stream\{closure}()
+#9 /home/yar0s/Projects/chat/chat-back/vendor/react/stream/src/DuplexResourceStream.php(193): Evenement\EventEmitter->emit()
+#10 /home/yar0s/Projects/chat/chat-back/vendor/react/event-loop/src/StreamSelectLoop.php(245): React\Stream\DuplexResourceStream->handleData()
+#11 /home/yar0s/Projects/chat/chat-back/vendor/react/event-loop/src/StreamSelectLoop.php(212): React\EventLoop\StreamSelectLoop->waitForStreamActivity()
+#12 /home/yar0s/Projects/chat/chat-back/vendor/cboden/ratchet/src/Ratchet/Server/IoServer.php(74): React\EventLoop\StreamSelectLoop->run()
+#13 /home/yar0s/Projects/chat/chat-back/commands/SocketController.php(33): Ratchet\Server\IoServer->run()
+#14 [internal function]: app\commands\SocketController->actionStartSocket()
+#15 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/InlineAction.php(57): call_user_func_array()
+#16 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Controller.php(181): yii\base\InlineAction->runWithParams()
+#17 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Controller.php(184): yii\base\Controller->runAction()
+#18 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php(534): yii\console\Controller->runAction()
+#19 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#20 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#21 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#22 /home/yar0s/Projects/chat/chat-back/yii(20): yii\base\Application->run()
+#23 {main}[Console] 14:38:20 : WebSocket server started
+[Console] 14:38:33 : WebSocket server started
+[Error] 11:39:52 : Wrong user login token.
+#0 [internal function]: yii\base\ErrorHandler->handleError()
+#1 /home/yar0s/Projects/chat/chat-back/yii2-yiisockets/src/server/SocketServer.php(106): trigger_error()
+#2 /home/yar0s/Projects/chat/chat-back/vendor/cboden/ratchet/src/Ratchet/WebSocket/WsServer.php(142): blackbes\yiisockets\server\SocketServer->onOpen()
+#3 /home/yar0s/Projects/chat/chat-back/vendor/cboden/ratchet/src/Ratchet/Http/HttpServer.php(51): Ratchet\WebSocket\WsServer->onOpen()
+#4 /home/yar0s/Projects/chat/chat-back/vendor/cboden/ratchet/src/Ratchet/Server/IoServer.php(112): Ratchet\Http\HttpServer->onMessage()
+#5 /home/yar0s/Projects/chat/chat-back/vendor/cboden/ratchet/src/Ratchet/Server/IoServer.php(95): Ratchet\Server\IoServer->handleData()
+#6 /home/yar0s/Projects/chat/chat-back/vendor/evenement/evenement/src/Evenement/EventEmitterTrait.php(123): Ratchet\Server\IoServer->Ratchet\Server\{closure}()
+#7 /home/yar0s/Projects/chat/chat-back/vendor/react/stream/src/Util.php(71): Evenement\EventEmitter->emit()
+#8 /home/yar0s/Projects/chat/chat-back/vendor/evenement/evenement/src/Evenement/EventEmitterTrait.php(123): React\Stream\Util::React\Stream\{closure}()
+#9 /home/yar0s/Projects/chat/chat-back/vendor/react/stream/src/DuplexResourceStream.php(193): Evenement\EventEmitter->emit()
+#10 /home/yar0s/Projects/chat/chat-back/vendor/react/event-loop/src/StreamSelectLoop.php(245): React\Stream\DuplexResourceStream->handleData()
+#11 /home/yar0s/Projects/chat/chat-back/vendor/react/event-loop/src/StreamSelectLoop.php(212): React\EventLoop\StreamSelectLoop->waitForStreamActivity()
+#12 /home/yar0s/Projects/chat/chat-back/vendor/cboden/ratchet/src/Ratchet/Server/IoServer.php(74): React\EventLoop\StreamSelectLoop->run()
+#13 /home/yar0s/Projects/chat/chat-back/commands/SocketController.php(33): Ratchet\Server\IoServer->run()
+#14 [internal function]: app\commands\SocketController->actionStartSocket()
+#15 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/InlineAction.php(57): call_user_func_array()
+#16 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Controller.php(181): yii\base\InlineAction->runWithParams()
+#17 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Controller.php(184): yii\base\Controller->runAction()
+#18 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php(534): yii\console\Controller->runAction()
+#19 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#20 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#21 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#22 /home/yar0s/Projects/chat/chat-back/yii(20): yii\base\Application->run()
+#23 {main}[Error] 11:40:08 : Getting unknown property: yii\console\Application::user
+#0 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/di/ServiceLocator.php(77): yii\base\Component->__get()
+#1 /home/yar0s/Projects/chat/chat-back/yii2-yiisockets/src/server/SocketServer.php(75): yii\di\ServiceLocator->__get()
+#2 /home/yar0s/Projects/chat/chat-back/vendor/cboden/ratchet/src/Ratchet/WebSocket/WsServer.php(142): blackbes\yiisockets\server\SocketServer->onOpen()
+#3 /home/yar0s/Projects/chat/chat-back/vendor/cboden/ratchet/src/Ratchet/Http/HttpServer.php(51): Ratchet\WebSocket\WsServer->onOpen()
+#4 /home/yar0s/Projects/chat/chat-back/vendor/cboden/ratchet/src/Ratchet/Server/IoServer.php(112): Ratchet\Http\HttpServer->onMessage()
+#5 /home/yar0s/Projects/chat/chat-back/vendor/cboden/ratchet/src/Ratchet/Server/IoServer.php(95): Ratchet\Server\IoServer->handleData()
+#6 /home/yar0s/Projects/chat/chat-back/vendor/evenement/evenement/src/Evenement/EventEmitterTrait.php(123): Ratchet\Server\IoServer->Ratchet\Server\{closure}()
+#7 /home/yar0s/Projects/chat/chat-back/vendor/react/stream/src/Util.php(71): Evenement\EventEmitter->emit()
+#8 /home/yar0s/Projects/chat/chat-back/vendor/evenement/evenement/src/Evenement/EventEmitterTrait.php(123): React\Stream\Util::React\Stream\{closure}()
+#9 /home/yar0s/Projects/chat/chat-back/vendor/react/stream/src/DuplexResourceStream.php(193): Evenement\EventEmitter->emit()
+#10 /home/yar0s/Projects/chat/chat-back/vendor/react/event-loop/src/StreamSelectLoop.php(245): React\Stream\DuplexResourceStream->handleData()
+#11 /home/yar0s/Projects/chat/chat-back/vendor/react/event-loop/src/StreamSelectLoop.php(212): React\EventLoop\StreamSelectLoop->waitForStreamActivity()
+#12 /home/yar0s/Projects/chat/chat-back/vendor/cboden/ratchet/src/Ratchet/Server/IoServer.php(74): React\EventLoop\StreamSelectLoop->run()
+#13 /home/yar0s/Projects/chat/chat-back/commands/SocketController.php(33): Ratchet\Server\IoServer->run()
+#14 [internal function]: app\commands\SocketController->actionStartSocket()
+#15 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/InlineAction.php(57): call_user_func_array()
+#16 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Controller.php(181): yii\base\InlineAction->runWithParams()
+#17 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Controller.php(184): yii\base\Controller->runAction()
+#18 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php(534): yii\console\Controller->runAction()
+#19 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#20 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#21 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#22 /home/yar0s/Projects/chat/chat-back/yii(20): yii\base\Application->run()
+#23 {main}[Console] 14:41:36 : WebSocket server started
+[Error] 11:41:42 : Validation return data should contain "client" key.
+#0 [internal function]: yii\base\ErrorHandler->handleError()
+#1 /home/yar0s/Projects/chat/chat-back/yii2-yiisockets/src/server/SocketServer.php(100): trigger_error()
+#2 /home/yar0s/Projects/chat/chat-back/vendor/cboden/ratchet/src/Ratchet/WebSocket/WsServer.php(142): blackbes\yiisockets\server\SocketServer->onOpen()
+#3 /home/yar0s/Projects/chat/chat-back/vendor/cboden/ratchet/src/Ratchet/Http/HttpServer.php(51): Ratchet\WebSocket\WsServer->onOpen()
+#4 /home/yar0s/Projects/chat/chat-back/vendor/cboden/ratchet/src/Ratchet/Server/IoServer.php(112): Ratchet\Http\HttpServer->onMessage()
+#5 /home/yar0s/Projects/chat/chat-back/vendor/cboden/ratchet/src/Ratchet/Server/IoServer.php(95): Ratchet\Server\IoServer->handleData()
+#6 /home/yar0s/Projects/chat/chat-back/vendor/evenement/evenement/src/Evenement/EventEmitterTrait.php(123): Ratchet\Server\IoServer->Ratchet\Server\{closure}()
+#7 /home/yar0s/Projects/chat/chat-back/vendor/react/stream/src/Util.php(71): Evenement\EventEmitter->emit()
+#8 /home/yar0s/Projects/chat/chat-back/vendor/evenement/evenement/src/Evenement/EventEmitterTrait.php(123): React\Stream\Util::React\Stream\{closure}()
+#9 /home/yar0s/Projects/chat/chat-back/vendor/react/stream/src/DuplexResourceStream.php(193): Evenement\EventEmitter->emit()
+#10 /home/yar0s/Projects/chat/chat-back/vendor/react/event-loop/src/StreamSelectLoop.php(245): React\Stream\DuplexResourceStream->handleData()
+#11 /home/yar0s/Projects/chat/chat-back/vendor/react/event-loop/src/StreamSelectLoop.php(212): React\EventLoop\StreamSelectLoop->waitForStreamActivity()
+#12 /home/yar0s/Projects/chat/chat-back/vendor/cboden/ratchet/src/Ratchet/Server/IoServer.php(74): React\EventLoop\StreamSelectLoop->run()
+#13 /home/yar0s/Projects/chat/chat-back/commands/SocketController.php(33): Ratchet\Server\IoServer->run()
+#14 [internal function]: app\commands\SocketController->actionStartSocket()
+#15 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/InlineAction.php(57): call_user_func_array()
+#16 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Controller.php(181): yii\base\InlineAction->runWithParams()
+#17 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Controller.php(184): yii\base\Controller->runAction()
+#18 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php(534): yii\console\Controller->runAction()
+#19 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#20 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#21 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#22 /home/yar0s/Projects/chat/chat-back/yii(20): yii\base\Application->run()
+#23 {main}[Console] 14:42:00 : WebSocket server started
+[Console] 14:45:00 : WebSocket server started
+[Error] 11:45:08 : Getting unknown property: yii\console\Application::user
+#0 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/di/ServiceLocator.php(77): yii\base\Component->__get()
+#1 /home/yar0s/Projects/chat/chat-back/yii2-yiisockets/src/server/SocketServer.php(75): yii\di\ServiceLocator->__get()
+#2 /home/yar0s/Projects/chat/chat-back/vendor/cboden/ratchet/src/Ratchet/WebSocket/WsServer.php(142): blackbes\yiisockets\server\SocketServer->onOpen()
+#3 /home/yar0s/Projects/chat/chat-back/vendor/cboden/ratchet/src/Ratchet/Http/HttpServer.php(51): Ratchet\WebSocket\WsServer->onOpen()
+#4 /home/yar0s/Projects/chat/chat-back/vendor/cboden/ratchet/src/Ratchet/Server/IoServer.php(112): Ratchet\Http\HttpServer->onMessage()
+#5 /home/yar0s/Projects/chat/chat-back/vendor/cboden/ratchet/src/Ratchet/Server/IoServer.php(95): Ratchet\Server\IoServer->handleData()
+#6 /home/yar0s/Projects/chat/chat-back/vendor/evenement/evenement/src/Evenement/EventEmitterTrait.php(123): Ratchet\Server\IoServer->Ratchet\Server\{closure}()
+#7 /home/yar0s/Projects/chat/chat-back/vendor/react/stream/src/Util.php(71): Evenement\EventEmitter->emit()
+#8 /home/yar0s/Projects/chat/chat-back/vendor/evenement/evenement/src/Evenement/EventEmitterTrait.php(123): React\Stream\Util::React\Stream\{closure}()
+#9 /home/yar0s/Projects/chat/chat-back/vendor/react/stream/src/DuplexResourceStream.php(193): Evenement\EventEmitter->emit()
+#10 /home/yar0s/Projects/chat/chat-back/vendor/react/event-loop/src/StreamSelectLoop.php(245): React\Stream\DuplexResourceStream->handleData()
+#11 /home/yar0s/Projects/chat/chat-back/vendor/react/event-loop/src/StreamSelectLoop.php(212): React\EventLoop\StreamSelectLoop->waitForStreamActivity()
+#12 /home/yar0s/Projects/chat/chat-back/vendor/cboden/ratchet/src/Ratchet/Server/IoServer.php(74): React\EventLoop\StreamSelectLoop->run()
+#13 /home/yar0s/Projects/chat/chat-back/commands/SocketController.php(28): Ratchet\Server\IoServer->run()
+#14 [internal function]: app\commands\SocketController->actionStartSocket()
+#15 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/InlineAction.php(57): call_user_func_array()
+#16 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Controller.php(181): yii\base\InlineAction->runWithParams()
+#17 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Controller.php(184): yii\base\Controller->runAction()
+#18 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php(534): yii\console\Controller->runAction()
+#19 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#20 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#21 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#22 /home/yar0s/Projects/chat/chat-back/yii(20): yii\base\Application->run()
+#23 {main}[Console] 14:45:18 : WebSocket server started
+[Error] 11:45:28 : Getting unknown property: yii\console\Application::user
+#0 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/di/ServiceLocator.php(77): yii\base\Component->__get()
+#1 /home/yar0s/Projects/chat/chat-back/yii2-yiisockets/src/server/SocketServer.php(75): yii\di\ServiceLocator->__get()
+#2 /home/yar0s/Projects/chat/chat-back/vendor/cboden/ratchet/src/Ratchet/WebSocket/WsServer.php(142): blackbes\yiisockets\server\SocketServer->onOpen()
+#3 /home/yar0s/Projects/chat/chat-back/vendor/cboden/ratchet/src/Ratchet/Http/HttpServer.php(51): Ratchet\WebSocket\WsServer->onOpen()
+#4 /home/yar0s/Projects/chat/chat-back/vendor/cboden/ratchet/src/Ratchet/Server/IoServer.php(112): Ratchet\Http\HttpServer->onMessage()
+#5 /home/yar0s/Projects/chat/chat-back/vendor/cboden/ratchet/src/Ratchet/Server/IoServer.php(95): Ratchet\Server\IoServer->handleData()
+#6 /home/yar0s/Projects/chat/chat-back/vendor/evenement/evenement/src/Evenement/EventEmitterTrait.php(123): Ratchet\Server\IoServer->Ratchet\Server\{closure}()
+#7 /home/yar0s/Projects/chat/chat-back/vendor/react/stream/src/Util.php(71): Evenement\EventEmitter->emit()
+#8 /home/yar0s/Projects/chat/chat-back/vendor/evenement/evenement/src/Evenement/EventEmitterTrait.php(123): React\Stream\Util::React\Stream\{closure}()
+#9 /home/yar0s/Projects/chat/chat-back/vendor/react/stream/src/DuplexResourceStream.php(193): Evenement\EventEmitter->emit()
+#10 /home/yar0s/Projects/chat/chat-back/vendor/react/event-loop/src/StreamSelectLoop.php(245): React\Stream\DuplexResourceStream->handleData()
+#11 /home/yar0s/Projects/chat/chat-back/vendor/react/event-loop/src/StreamSelectLoop.php(212): React\EventLoop\StreamSelectLoop->waitForStreamActivity()
+#12 /home/yar0s/Projects/chat/chat-back/vendor/cboden/ratchet/src/Ratchet/Server/IoServer.php(74): React\EventLoop\StreamSelectLoop->run()
+#13 /home/yar0s/Projects/chat/chat-back/commands/SocketController.php(28): Ratchet\Server\IoServer->run()
+#14 [internal function]: app\commands\SocketController->actionStartSocket()
+#15 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/InlineAction.php(57): call_user_func_array()
+#16 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Controller.php(181): yii\base\InlineAction->runWithParams()
+#17 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Controller.php(184): yii\base\Controller->runAction()
+#18 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php(534): yii\console\Controller->runAction()
+#19 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#20 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#21 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#22 /home/yar0s/Projects/chat/chat-back/yii(20): yii\base\Application->run()
+#23 {main}[Error] 11:47:12 : Getting unknown property: yii\console\Application::user
+#0 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/di/ServiceLocator.php(77): yii\base\Component->__get()
+#1 /home/yar0s/Projects/chat/chat-back/yii2-yiisockets/src/server/SocketServer.php(75): yii\di\ServiceLocator->__get()
+#2 /home/yar0s/Projects/chat/chat-back/vendor/cboden/ratchet/src/Ratchet/WebSocket/WsServer.php(142): blackbes\yiisockets\server\SocketServer->onOpen()
+#3 /home/yar0s/Projects/chat/chat-back/vendor/cboden/ratchet/src/Ratchet/Http/HttpServer.php(51): Ratchet\WebSocket\WsServer->onOpen()
+#4 /home/yar0s/Projects/chat/chat-back/vendor/cboden/ratchet/src/Ratchet/Server/IoServer.php(112): Ratchet\Http\HttpServer->onMessage()
+#5 /home/yar0s/Projects/chat/chat-back/vendor/cboden/ratchet/src/Ratchet/Server/IoServer.php(95): Ratchet\Server\IoServer->handleData()
+#6 /home/yar0s/Projects/chat/chat-back/vendor/evenement/evenement/src/Evenement/EventEmitterTrait.php(123): Ratchet\Server\IoServer->Ratchet\Server\{closure}()
+#7 /home/yar0s/Projects/chat/chat-back/vendor/react/stream/src/Util.php(71): Evenement\EventEmitter->emit()
+#8 /home/yar0s/Projects/chat/chat-back/vendor/evenement/evenement/src/Evenement/EventEmitterTrait.php(123): React\Stream\Util::React\Stream\{closure}()
+#9 /home/yar0s/Projects/chat/chat-back/vendor/react/stream/src/DuplexResourceStream.php(193): Evenement\EventEmitter->emit()
+#10 /home/yar0s/Projects/chat/chat-back/vendor/react/event-loop/src/StreamSelectLoop.php(245): React\Stream\DuplexResourceStream->handleData()
+#11 /home/yar0s/Projects/chat/chat-back/vendor/react/event-loop/src/StreamSelectLoop.php(212): React\EventLoop\StreamSelectLoop->waitForStreamActivity()
+#12 /home/yar0s/Projects/chat/chat-back/vendor/cboden/ratchet/src/Ratchet/Server/IoServer.php(74): React\EventLoop\StreamSelectLoop->run()
+#13 /home/yar0s/Projects/chat/chat-back/commands/SocketController.php(28): Ratchet\Server\IoServer->run()
+#14 [internal function]: app\commands\SocketController->actionStartSocket()
+#15 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/InlineAction.php(57): call_user_func_array()
+#16 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Controller.php(181): yii\base\InlineAction->runWithParams()
+#17 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Controller.php(184): yii\base\Controller->runAction()
+#18 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php(534): yii\console\Controller->runAction()
+#19 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#20 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#21 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#22 /home/yar0s/Projects/chat/chat-back/yii(20): yii\base\Application->run()
+#23 {main}[Error] 11:47:21 : Getting unknown property: yii\console\Application::user
+#0 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/di/ServiceLocator.php(77): yii\base\Component->__get()
+#1 /home/yar0s/Projects/chat/chat-back/yii2-yiisockets/src/server/SocketServer.php(75): yii\di\ServiceLocator->__get()
+#2 /home/yar0s/Projects/chat/chat-back/vendor/cboden/ratchet/src/Ratchet/WebSocket/WsServer.php(142): blackbes\yiisockets\server\SocketServer->onOpen()
+#3 /home/yar0s/Projects/chat/chat-back/vendor/cboden/ratchet/src/Ratchet/Http/HttpServer.php(51): Ratchet\WebSocket\WsServer->onOpen()
+#4 /home/yar0s/Projects/chat/chat-back/vendor/cboden/ratchet/src/Ratchet/Server/IoServer.php(112): Ratchet\Http\HttpServer->onMessage()
+#5 /home/yar0s/Projects/chat/chat-back/vendor/cboden/ratchet/src/Ratchet/Server/IoServer.php(95): Ratchet\Server\IoServer->handleData()
+#6 /home/yar0s/Projects/chat/chat-back/vendor/evenement/evenement/src/Evenement/EventEmitterTrait.php(123): Ratchet\Server\IoServer->Ratchet\Server\{closure}()
+#7 /home/yar0s/Projects/chat/chat-back/vendor/react/stream/src/Util.php(71): Evenement\EventEmitter->emit()
+#8 /home/yar0s/Projects/chat/chat-back/vendor/evenement/evenement/src/Evenement/EventEmitterTrait.php(123): React\Stream\Util::React\Stream\{closure}()
+#9 /home/yar0s/Projects/chat/chat-back/vendor/react/stream/src/DuplexResourceStream.php(193): Evenement\EventEmitter->emit()
+#10 /home/yar0s/Projects/chat/chat-back/vendor/react/event-loop/src/StreamSelectLoop.php(245): React\Stream\DuplexResourceStream->handleData()
+#11 /home/yar0s/Projects/chat/chat-back/vendor/react/event-loop/src/StreamSelectLoop.php(212): React\EventLoop\StreamSelectLoop->waitForStreamActivity()
+#12 /home/yar0s/Projects/chat/chat-back/vendor/cboden/ratchet/src/Ratchet/Server/IoServer.php(74): React\EventLoop\StreamSelectLoop->run()
+#13 /home/yar0s/Projects/chat/chat-back/commands/SocketController.php(28): Ratchet\Server\IoServer->run()
+#14 [internal function]: app\commands\SocketController->actionStartSocket()
+#15 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/InlineAction.php(57): call_user_func_array()
+#16 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Controller.php(181): yii\base\InlineAction->runWithParams()
+#17 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Controller.php(184): yii\base\Controller->runAction()
+#18 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php(534): yii\console\Controller->runAction()
+#19 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#20 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#21 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#22 /home/yar0s/Projects/chat/chat-back/yii(20): yii\base\Application->run()
+#23 {main}[Console] 14:47:45 : WebSocket server started
+Exception 'ParseError' with message 'syntax error, unexpected 'return' (T_RETURN)'
+
+in /home/yar0s/Projects/chat/chat-back/commands/SocketController.php:37
+
+Stack trace:
+#0 [internal function]: yii\BaseYii::autoload()
+#1 [internal function]: spl_autoload_call()
+#2 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php(643): class_exists()
+#3 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php(602): yii\base\Module->createControllerByID()
+#4 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Module->createController()
+#5 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#6 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#7 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#8 /home/yar0s/Projects/chat/chat-back/yii(20): yii\base\Application->run()
+#9 {main}
+[Console] 14:47:45 : WebSocket server started
+Exception 'ParseError' with message 'syntax error, unexpected 'return' (T_RETURN)'
+
+in /home/yar0s/Projects/chat/chat-back/commands/SocketController.php:37
+
+Stack trace:
+#0 [internal function]: yii\BaseYii::autoload()
+#1 [internal function]: spl_autoload_call()
+#2 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php(643): class_exists()
+#3 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php(602): yii\base\Module->createControllerByID()
+#4 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Module->createController()
+#5 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#6 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#7 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#8 /home/yar0s/Projects/chat/chat-back/yii(20): yii\base\Application->run()
+#9 {main}
+[Console] 14:47:45 : WebSocket server started
+Exception 'ParseError' with message 'syntax error, unexpected 'return' (T_RETURN)'
+
+in /home/yar0s/Projects/chat/chat-back/commands/SocketController.php:37
+
+Stack trace:
+#0 [internal function]: yii\BaseYii::autoload()
+#1 [internal function]: spl_autoload_call()
+#2 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php(643): class_exists()
+#3 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php(602): yii\base\Module->createControllerByID()
+#4 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Module->createController()
+#5 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#6 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#7 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#8 /home/yar0s/Projects/chat/chat-back/yii(20): yii\base\Application->run()
+#9 {main}
+[Console] 14:47:45 : WebSocket server started
+Exception 'ParseError' with message 'syntax error, unexpected 'return' (T_RETURN)'
+
+in /home/yar0s/Projects/chat/chat-back/commands/SocketController.php:37
+
+Stack trace:
+#0 [internal function]: yii\BaseYii::autoload()
+#1 [internal function]: spl_autoload_call()
+#2 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php(643): class_exists()
+#3 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php(602): yii\base\Module->createControllerByID()
+#4 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Module->createController()
+#5 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#6 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#7 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#8 /home/yar0s/Projects/chat/chat-back/yii(20): yii\base\Application->run()
+#9 {main}
+[Console] 14:47:45 : WebSocket server started
+Exception 'ParseError' with message 'syntax error, unexpected 'return' (T_RETURN)'
+
+in /home/yar0s/Projects/chat/chat-back/commands/SocketController.php:37
+
+Stack trace:
+#0 [internal function]: yii\BaseYii::autoload()
+#1 [internal function]: spl_autoload_call()
+#2 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php(643): class_exists()
+#3 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php(602): yii\base\Module->createControllerByID()
+#4 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Module->createController()
+#5 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#6 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#7 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#8 /home/yar0s/Projects/chat/chat-back/yii(20): yii\base\Application->run()
+#9 {main}
+[Console] 14:47:45 : WebSocket server started
+Exception 'ParseError' with message 'syntax error, unexpected 'return' (T_RETURN)'
+
+in /home/yar0s/Projects/chat/chat-back/commands/SocketController.php:37
+
+Stack trace:
+#0 [internal function]: yii\BaseYii::autoload()
+#1 [internal function]: spl_autoload_call()
+#2 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php(643): class_exists()
+#3 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php(602): yii\base\Module->createControllerByID()
+#4 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Module->createController()
+#5 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#6 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#7 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#8 /home/yar0s/Projects/chat/chat-back/yii(20): yii\base\Application->run()
+#9 {main}
+[Console] 14:47:45 : WebSocket server started
+Exception 'ParseError' with message 'syntax error, unexpected 'return' (T_RETURN)'
+
+in /home/yar0s/Projects/chat/chat-back/commands/SocketController.php:37
+
+Stack trace:
+#0 [internal function]: yii\BaseYii::autoload()
+#1 [internal function]: spl_autoload_call()
+#2 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php(643): class_exists()
+#3 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php(602): yii\base\Module->createControllerByID()
+#4 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Module->createController()
+#5 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#6 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#7 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#8 /home/yar0s/Projects/chat/chat-back/yii(20): yii\base\Application->run()
+#9 {main}
+[Console] 14:47:45 : WebSocket server started
+Exception 'ParseError' with message 'syntax error, unexpected 'return' (T_RETURN)'
+
+in /home/yar0s/Projects/chat/chat-back/commands/SocketController.php:37
+
+Stack trace:
+#0 [internal function]: yii\BaseYii::autoload()
+#1 [internal function]: spl_autoload_call()
+#2 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php(643): class_exists()
+#3 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php(602): yii\base\Module->createControllerByID()
+#4 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Module->createController()
+#5 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#6 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#7 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#8 /home/yar0s/Projects/chat/chat-back/yii(20): yii\base\Application->run()
+#9 {main}
+[Console] 14:47:45 : WebSocket server started
+Exception 'ParseError' with message 'syntax error, unexpected 'return' (T_RETURN)'
+
+in /home/yar0s/Projects/chat/chat-back/commands/SocketController.php:37
+
+Stack trace:
+#0 [internal function]: yii\BaseYii::autoload()
+#1 [internal function]: spl_autoload_call()
+#2 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php(643): class_exists()
+#3 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php(602): yii\base\Module->createControllerByID()
+#4 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Module->createController()
+#5 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#6 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#7 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#8 /home/yar0s/Projects/chat/chat-back/yii(20): yii\base\Application->run()
+#9 {main}
+[Console] 14:47:45 : WebSocket server started
+Exception 'ParseError' with message 'syntax error, unexpected 'return' (T_RETURN)'
+
+in /home/yar0s/Projects/chat/chat-back/commands/SocketController.php:37
+
+Stack trace:
+#0 [internal function]: yii\BaseYii::autoload()
+#1 [internal function]: spl_autoload_call()
+#2 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php(643): class_exists()
+#3 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php(602): yii\base\Module->createControllerByID()
+#4 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Module->createController()
+#5 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#6 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#7 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#8 /home/yar0s/Projects/chat/chat-back/yii(20): yii\base\Application->run()
+#9 {main}
+[Console] 14:47:45 : WebSocket server started
+Exception 'ParseError' with message 'syntax error, unexpected 'return' (T_RETURN)'
+
+in /home/yar0s/Projects/chat/chat-back/commands/SocketController.php:37
+
+Stack trace:
+#0 [internal function]: yii\BaseYii::autoload()
+#1 [internal function]: spl_autoload_call()
+#2 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php(643): class_exists()
+#3 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php(602): yii\base\Module->createControllerByID()
+#4 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Module->createController()
+#5 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#6 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#7 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#8 /home/yar0s/Projects/chat/chat-back/yii(20): yii\base\Application->run()
+#9 {main}
+[Console] 14:47:45 : WebSocket server started
+Exception 'ParseError' with message 'syntax error, unexpected 'return' (T_RETURN)'
+
+in /home/yar0s/Projects/chat/chat-back/commands/SocketController.php:37
+
+Stack trace:
+#0 [internal function]: yii\BaseYii::autoload()
+#1 [internal function]: spl_autoload_call()
+#2 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php(643): class_exists()
+#3 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php(602): yii\base\Module->createControllerByID()
+#4 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Module->createController()
+#5 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#6 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#7 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#8 /home/yar0s/Projects/chat/chat-back/yii(20): yii\base\Application->run()
+#9 {main}
+[Console] 14:47:45 : WebSocket server started
+Exception 'ParseError' with message 'syntax error, unexpected 'return' (T_RETURN)'
+
+in /home/yar0s/Projects/chat/chat-back/commands/SocketController.php:37
+
+Stack trace:
+#0 [internal function]: yii\BaseYii::autoload()
+#1 [internal function]: spl_autoload_call()
+#2 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php(643): class_exists()
+#3 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php(602): yii\base\Module->createControllerByID()
+#4 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Module->createController()
+#5 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#6 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#7 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#8 /home/yar0s/Projects/chat/chat-back/yii(20): yii\base\Application->run()
+#9 {main}
+[Console] 14:47:45 : WebSocket server started
+Exception 'ParseError' with message 'syntax error, unexpected 'return' (T_RETURN)'
+
+in /home/yar0s/Projects/chat/chat-back/commands/SocketController.php:37
+
+Stack trace:
+#0 [internal function]: yii\BaseYii::autoload()
+#1 [internal function]: spl_autoload_call()
+#2 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php(643): class_exists()
+#3 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php(602): yii\base\Module->createControllerByID()
+#4 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Module->createController()
+#5 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#6 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#7 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#8 /home/yar0s/Projects/chat/chat-back/yii(20): yii\base\Application->run()
+#9 {main}
+[Console] 14:47:45 : WebSocket server started
+Exception 'ParseError' with message 'syntax error, unexpected 'return' (T_RETURN)'
+
+in /home/yar0s/Projects/chat/chat-back/commands/SocketController.php:37
+
+Stack trace:
+#0 [internal function]: yii\BaseYii::autoload()
+#1 [internal function]: spl_autoload_call()
+#2 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php(643): class_exists()
+#3 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php(602): yii\base\Module->createControllerByID()
+#4 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Module->createController()
+#5 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#6 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#7 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#8 /home/yar0s/Projects/chat/chat-back/yii(20): yii\base\Application->run()
+#9 {main}
+[Console] 14:47:45 : WebSocket server started
+Exception 'ParseError' with message 'syntax error, unexpected 'return' (T_RETURN)'
+
+in /home/yar0s/Projects/chat/chat-back/commands/SocketController.php:37
+
+Stack trace:
+#0 [internal function]: yii\BaseYii::autoload()
+#1 [internal function]: spl_autoload_call()
+#2 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php(643): class_exists()
+#3 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php(602): yii\base\Module->createControllerByID()
+#4 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Module->createController()
+#5 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#6 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#7 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#8 /home/yar0s/Projects/chat/chat-back/yii(20): yii\base\Application->run()
+#9 {main}
+[Console] 14:47:48 : WebSocket server started
+[Error] 11:48:47 : Getting unknown property: yii\console\Application::user
+#0 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/di/ServiceLocator.php(77): yii\base\Component->__get()
+#1 /home/yar0s/Projects/chat/chat-back/yii2-yiisockets/src/server/SocketServer.php(75): yii\di\ServiceLocator->__get()
+#2 /home/yar0s/Projects/chat/chat-back/vendor/cboden/ratchet/src/Ratchet/WebSocket/WsServer.php(142): blackbes\yiisockets\server\SocketServer->onOpen()
+#3 /home/yar0s/Projects/chat/chat-back/vendor/cboden/ratchet/src/Ratchet/Http/HttpServer.php(51): Ratchet\WebSocket\WsServer->onOpen()
+#4 /home/yar0s/Projects/chat/chat-back/vendor/cboden/ratchet/src/Ratchet/Server/IoServer.php(112): Ratchet\Http\HttpServer->onMessage()
+#5 /home/yar0s/Projects/chat/chat-back/vendor/cboden/ratchet/src/Ratchet/Server/IoServer.php(95): Ratchet\Server\IoServer->handleData()
+#6 /home/yar0s/Projects/chat/chat-back/vendor/evenement/evenement/src/Evenement/EventEmitterTrait.php(123): Ratchet\Server\IoServer->Ratchet\Server\{closure}()
+#7 /home/yar0s/Projects/chat/chat-back/vendor/react/stream/src/Util.php(71): Evenement\EventEmitter->emit()
+#8 /home/yar0s/Projects/chat/chat-back/vendor/evenement/evenement/src/Evenement/EventEmitterTrait.php(123): React\Stream\Util::React\Stream\{closure}()
+#9 /home/yar0s/Projects/chat/chat-back/vendor/react/stream/src/DuplexResourceStream.php(193): Evenement\EventEmitter->emit()
+#10 /home/yar0s/Projects/chat/chat-back/vendor/react/event-loop/src/StreamSelectLoop.php(245): React\Stream\DuplexResourceStream->handleData()
+#11 /home/yar0s/Projects/chat/chat-back/vendor/react/event-loop/src/StreamSelectLoop.php(212): React\EventLoop\StreamSelectLoop->waitForStreamActivity()
+#12 /home/yar0s/Projects/chat/chat-back/vendor/cboden/ratchet/src/Ratchet/Server/IoServer.php(74): React\EventLoop\StreamSelectLoop->run()
+#13 /home/yar0s/Projects/chat/chat-back/commands/SocketController.php(28): Ratchet\Server\IoServer->run()
+#14 [internal function]: app\commands\SocketController->actionStartSocket()
+#15 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/InlineAction.php(57): call_user_func_array()
+#16 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Controller.php(181): yii\base\InlineAction->runWithParams()
+#17 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Controller.php(184): yii\base\Controller->runAction()
+#18 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php(534): yii\console\Controller->runAction()
+#19 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#20 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#21 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#22 /home/yar0s/Projects/chat/chat-back/yii(20): yii\base\Application->run()
+#23 {main}[Console] 15:01:05 : WebSocket server started
+[Info] 12:01:13 : New connection! (105)
+[Console] 15:24:56 : WebSocket server started
+[Error] 12:24:57 : Login credentials can not be empty.
+#0 [internal function]: yii\base\ErrorHandler->handleError()
+#1 /home/yar0s/Projects/chat/chat-back/yii2-yiisockets/src/server/SocketServer.php(120): trigger_error()
+#2 /home/yar0s/Projects/chat/chat-back/vendor/cboden/ratchet/src/Ratchet/WebSocket/WsServer.php(142): blackbes\yiisockets\server\SocketServer->onOpen()
+#3 /home/yar0s/Projects/chat/chat-back/vendor/cboden/ratchet/src/Ratchet/Http/HttpServer.php(51): Ratchet\WebSocket\WsServer->onOpen()
+#4 /home/yar0s/Projects/chat/chat-back/vendor/cboden/ratchet/src/Ratchet/Server/IoServer.php(112): Ratchet\Http\HttpServer->onMessage()
+#5 /home/yar0s/Projects/chat/chat-back/vendor/cboden/ratchet/src/Ratchet/Server/IoServer.php(95): Ratchet\Server\IoServer->handleData()
+#6 /home/yar0s/Projects/chat/chat-back/vendor/evenement/evenement/src/Evenement/EventEmitterTrait.php(123): Ratchet\Server\IoServer->Ratchet\Server\{closure}()
+#7 /home/yar0s/Projects/chat/chat-back/vendor/react/stream/src/Util.php(71): Evenement\EventEmitter->emit()
+#8 /home/yar0s/Projects/chat/chat-back/vendor/evenement/evenement/src/Evenement/EventEmitterTrait.php(123): React\Stream\Util::React\Stream\{closure}()
+#9 /home/yar0s/Projects/chat/chat-back/vendor/react/stream/src/DuplexResourceStream.php(193): Evenement\EventEmitter->emit()
+#10 /home/yar0s/Projects/chat/chat-back/vendor/react/event-loop/src/StreamSelectLoop.php(245): React\Stream\DuplexResourceStream->handleData()
+#11 /home/yar0s/Projects/chat/chat-back/vendor/react/event-loop/src/StreamSelectLoop.php(212): React\EventLoop\StreamSelectLoop->waitForStreamActivity()
+#12 /home/yar0s/Projects/chat/chat-back/vendor/cboden/ratchet/src/Ratchet/Server/IoServer.php(74): React\EventLoop\StreamSelectLoop->run()
+#13 /home/yar0s/Projects/chat/chat-back/commands/SocketController.php(28): Ratchet\Server\IoServer->run()
+#14 [internal function]: app\commands\SocketController->actionStartSocket()
+#15 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/InlineAction.php(57): call_user_func_array()
+#16 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Controller.php(181): yii\base\InlineAction->runWithParams()
+#17 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Controller.php(184): yii\base\Controller->runAction()
+#18 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php(534): yii\console\Controller->runAction()
+#19 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#20 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#21 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#22 /home/yar0s/Projects/chat/chat-back/yii(20): yii\base\Application->run()
+#23 {main}[Console] 15:28:00 : WebSocket server started
+[Console] 15:28:38 : WebSocket server started
+[Console] 15:29:37 : WebSocket server started
+[Console] 15:33:22 : WebSocket server started
+[Console] 15:33:33 : WebSocket server started
+[Console] 15:39:17 : WebSocket server started
+[Console] 15:40:50 : WebSocket server started
+[Console] 15:44:16 : WebSocket server started
+[Console] 15:45:16 : WebSocket server started
+[Console] 15:47:46 : WebSocket server started
+[Console] 15:49:35 : WebSocket server started
+[Console] 15:49:57 : WebSocket server started
+[Console] 15:51:29 : WebSocket server started
+[Console] 15:53:23 : WebSocket server started
+[Error] 12:53:26 : Wrong user login token.
+#0 [internal function]: yii\base\ErrorHandler->handleError()
+#1 /home/yar0s/Projects/chat/chat-back/yii2-yiisockets/src/server/SocketServer.php(106): trigger_error()
+#2 /home/yar0s/Projects/chat/chat-back/vendor/cboden/ratchet/src/Ratchet/WebSocket/WsServer.php(142): blackbes\yiisockets\server\SocketServer->onOpen()
+#3 /home/yar0s/Projects/chat/chat-back/vendor/cboden/ratchet/src/Ratchet/Http/HttpServer.php(51): Ratchet\WebSocket\WsServer->onOpen()
+#4 /home/yar0s/Projects/chat/chat-back/vendor/cboden/ratchet/src/Ratchet/Server/IoServer.php(112): Ratchet\Http\HttpServer->onMessage()
+#5 /home/yar0s/Projects/chat/chat-back/vendor/cboden/ratchet/src/Ratchet/Server/IoServer.php(95): Ratchet\Server\IoServer->handleData()
+#6 /home/yar0s/Projects/chat/chat-back/vendor/evenement/evenement/src/Evenement/EventEmitterTrait.php(123): Ratchet\Server\IoServer->Ratchet\Server\{closure}()
+#7 /home/yar0s/Projects/chat/chat-back/vendor/react/stream/src/Util.php(71): Evenement\EventEmitter->emit()
+#8 /home/yar0s/Projects/chat/chat-back/vendor/evenement/evenement/src/Evenement/EventEmitterTrait.php(123): React\Stream\Util::React\Stream\{closure}()
+#9 /home/yar0s/Projects/chat/chat-back/vendor/react/stream/src/DuplexResourceStream.php(193): Evenement\EventEmitter->emit()
+#10 /home/yar0s/Projects/chat/chat-back/vendor/react/event-loop/src/StreamSelectLoop.php(245): React\Stream\DuplexResourceStream->handleData()
+#11 /home/yar0s/Projects/chat/chat-back/vendor/react/event-loop/src/StreamSelectLoop.php(212): React\EventLoop\StreamSelectLoop->waitForStreamActivity()
+#12 /home/yar0s/Projects/chat/chat-back/vendor/cboden/ratchet/src/Ratchet/Server/IoServer.php(74): React\EventLoop\StreamSelectLoop->run()
+#13 /home/yar0s/Projects/chat/chat-back/commands/SocketController.php(28): Ratchet\Server\IoServer->run()
+#14 [internal function]: app\commands\SocketController->actionStartSocket()
+#15 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/InlineAction.php(57): call_user_func_array()
+#16 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Controller.php(181): yii\base\InlineAction->runWithParams()
+#17 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Controller.php(184): yii\base\Controller->runAction()
+#18 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php(534): yii\console\Controller->runAction()
+#19 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#20 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#21 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#22 /home/yar0s/Projects/chat/chat-back/yii(20): yii\base\Application->run()
+#23 {main}[Info] 12:53:34 : New connection! (183)
+[Info] 12:54:02 : New connection! (187)
+[Info] 12:54:05 : {"action":"chat/test", "data": {"text":"1"}}
+[Info] 12:54:47 : Connection 187 has disconnected
+[Info] 12:54:47 : Connection 183 has disconnected
+[Error] 13:39:56 : Wrong user login token.
+#0 [internal function]: yii\base\ErrorHandler->handleError()
+#1 /home/yar0s/Projects/chat/chat-back/yii2-yiisockets/src/server/SocketServer.php(106): trigger_error()
+#2 /home/yar0s/Projects/chat/chat-back/vendor/cboden/ratchet/src/Ratchet/WebSocket/WsServer.php(142): blackbes\yiisockets\server\SocketServer->onOpen()
+#3 /home/yar0s/Projects/chat/chat-back/vendor/cboden/ratchet/src/Ratchet/Http/HttpServer.php(51): Ratchet\WebSocket\WsServer->onOpen()
+#4 /home/yar0s/Projects/chat/chat-back/vendor/cboden/ratchet/src/Ratchet/Server/IoServer.php(112): Ratchet\Http\HttpServer->onMessage()
+#5 /home/yar0s/Projects/chat/chat-back/vendor/cboden/ratchet/src/Ratchet/Server/IoServer.php(95): Ratchet\Server\IoServer->handleData()
+#6 /home/yar0s/Projects/chat/chat-back/vendor/evenement/evenement/src/Evenement/EventEmitterTrait.php(123): Ratchet\Server\IoServer->Ratchet\Server\{closure}()
+#7 /home/yar0s/Projects/chat/chat-back/vendor/react/stream/src/Util.php(71): Evenement\EventEmitter->emit()
+#8 /home/yar0s/Projects/chat/chat-back/vendor/evenement/evenement/src/Evenement/EventEmitterTrait.php(123): React\Stream\Util::React\Stream\{closure}()
+#9 /home/yar0s/Projects/chat/chat-back/vendor/react/stream/src/DuplexResourceStream.php(193): Evenement\EventEmitter->emit()
+#10 /home/yar0s/Projects/chat/chat-back/vendor/react/event-loop/src/StreamSelectLoop.php(245): React\Stream\DuplexResourceStream->handleData()
+#11 /home/yar0s/Projects/chat/chat-back/vendor/react/event-loop/src/StreamSelectLoop.php(212): React\EventLoop\StreamSelectLoop->waitForStreamActivity()
+#12 /home/yar0s/Projects/chat/chat-back/vendor/cboden/ratchet/src/Ratchet/Server/IoServer.php(74): React\EventLoop\StreamSelectLoop->run()
+#13 /home/yar0s/Projects/chat/chat-back/commands/SocketController.php(28): Ratchet\Server\IoServer->run()
+#14 [internal function]: app\commands\SocketController->actionStartSocket()
+#15 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/InlineAction.php(57): call_user_func_array()
+#16 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Controller.php(181): yii\base\InlineAction->runWithParams()
+#17 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Controller.php(184): yii\base\Controller->runAction()
+#18 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php(534): yii\console\Controller->runAction()
+#19 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#20 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#21 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#22 /home/yar0s/Projects/chat/chat-back/yii(20): yii\base\Application->run()
+#23 {main}

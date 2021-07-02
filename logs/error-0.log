@@ -2814,3 +2814,971 @@ Stack trace:
 #2 /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
 #3 /home/yar0s/Projects/chat-back/yii(20): yii\base\Application->run()
 #4 {main}
+Unknown command: socket/start-socket
+Caused by: Exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "socket/start-socket".'
+
+in /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/base/Module.php:543
+
+Stack trace:
+#0 /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#1 /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#2 /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#3 /home/yar0s/Projects/chat-back/yii(20): yii\base\Application->run()
+#4 {main}
+Unknown command: socket/start-socket
+Caused by: Exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "socket/start-socket".'
+
+in /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/base/Module.php:543
+
+Stack trace:
+#0 /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#1 /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#2 /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#3 /home/yar0s/Projects/chat-back/yii(20): yii\base\Application->run()
+#4 {main}
+Unknown command: socket/start-socket
+Caused by: Exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "socket/start-socket".'
+
+in /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/base/Module.php:543
+
+Stack trace:
+#0 /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#1 /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#2 /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#3 /home/yar0s/Projects/chat-back/yii(20): yii\base\Application->run()
+#4 {main}
+Unknown command: socket/start-socket
+Caused by: Exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "socket/start-socket".'
+
+in /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/base/Module.php:543
+
+Stack trace:
+#0 /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#1 /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#2 /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#3 /home/yar0s/Projects/chat-back/yii(20): yii\base\Application->run()
+#4 {main}
+Unknown command: socket/start-socket
+Caused by: Exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "socket/start-socket".'
+
+in /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/base/Module.php:543
+
+Stack trace:
+#0 /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#1 /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#2 /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#3 /home/yar0s/Projects/chat-back/yii(20): yii\base\Application->run()
+#4 {main}
+Unknown command: socket/start-socket
+Caused by: Exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "socket/start-socket".'
+
+in /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/base/Module.php:543
+
+Stack trace:
+#0 /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#1 /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#2 /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#3 /home/yar0s/Projects/chat-back/yii(20): yii\base\Application->run()
+#4 {main}
+Unknown command: socket/start-socket
+Caused by: Exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "socket/start-socket".'
+
+in /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/base/Module.php:543
+
+Stack trace:
+#0 /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#1 /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#2 /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#3 /home/yar0s/Projects/chat-back/yii(20): yii\base\Application->run()
+#4 {main}
+Unknown command: socket/start-socket
+Caused by: Exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "socket/start-socket".'
+
+in /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/base/Module.php:543
+
+Stack trace:
+#0 /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#1 /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#2 /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#3 /home/yar0s/Projects/chat-back/yii(20): yii\base\Application->run()
+#4 {main}
+Unknown command: socket/start-socket
+Caused by: Exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "socket/start-socket".'
+
+in /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/base/Module.php:543
+
+Stack trace:
+#0 /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#1 /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#2 /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#3 /home/yar0s/Projects/chat-back/yii(20): yii\base\Application->run()
+#4 {main}
+Unknown command: socket/start-socket
+Caused by: Exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "socket/start-socket".'
+
+in /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/base/Module.php:543
+
+Stack trace:
+#0 /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#1 /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#2 /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#3 /home/yar0s/Projects/chat-back/yii(20): yii\base\Application->run()
+#4 {main}
+Unknown command: socket/start-socket
+Caused by: Exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "socket/start-socket".'
+
+in /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/base/Module.php:543
+
+Stack trace:
+#0 /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#1 /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#2 /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#3 /home/yar0s/Projects/chat-back/yii(20): yii\base\Application->run()
+#4 {main}
+Unknown command: socket/start-socket
+Caused by: Exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "socket/start-socket".'
+
+in /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/base/Module.php:543
+
+Stack trace:
+#0 /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#1 /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#2 /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#3 /home/yar0s/Projects/chat-back/yii(20): yii\base\Application->run()
+#4 {main}
+Unknown command: socket/start-socket
+Caused by: Exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "socket/start-socket".'
+
+in /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/base/Module.php:543
+
+Stack trace:
+#0 /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#1 /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#2 /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#3 /home/yar0s/Projects/chat-back/yii(20): yii\base\Application->run()
+#4 {main}
+Unknown command: socket/start-socket
+Caused by: Exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "socket/start-socket".'
+
+in /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/base/Module.php:543
+
+Stack trace:
+#0 /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#1 /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#2 /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#3 /home/yar0s/Projects/chat-back/yii(20): yii\base\Application->run()
+#4 {main}
+Unknown command: socket/start-socket
+Caused by: Exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "socket/start-socket".'
+
+in /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/base/Module.php:543
+
+Stack trace:
+#0 /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#1 /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#2 /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#3 /home/yar0s/Projects/chat-back/yii(20): yii\base\Application->run()
+#4 {main}
+Unknown command: socket/start-socket
+Caused by: Exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "socket/start-socket".'
+
+in /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/base/Module.php:543
+
+Stack trace:
+#0 /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#1 /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#2 /home/yar0s/Projects/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#3 /home/yar0s/Projects/chat-back/yii(20): yii\base\Application->run()
+#4 {main}
+Unknown command: socket/start-socket
+Caused by: Exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "socket/start-socket".'
+
+in /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php:543
+
+Stack trace:
+#0 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#1 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#2 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#3 /home/yar0s/Projects/chat/chat-back/yii(20): yii\base\Application->run()
+#4 {main}
+Unknown command: socket/start-socket
+Caused by: Exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "socket/start-socket".'
+
+in /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php:543
+
+Stack trace:
+#0 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#1 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#2 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#3 /home/yar0s/Projects/chat/chat-back/yii(20): yii\base\Application->run()
+#4 {main}
+Unknown command: socket/start-socket
+Caused by: Exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "socket/start-socket".'
+
+in /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php:543
+
+Stack trace:
+#0 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#1 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#2 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#3 /home/yar0s/Projects/chat/chat-back/yii(20): yii\base\Application->run()
+#4 {main}
+Unknown command: socket/start-socket
+Caused by: Exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "socket/start-socket".'
+
+in /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php:543
+
+Stack trace:
+#0 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#1 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#2 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#3 /home/yar0s/Projects/chat/chat-back/yii(20): yii\base\Application->run()
+#4 {main}
+Unknown command: socket/start-socket
+Caused by: Exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "socket/start-socket".'
+
+in /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php:543
+
+Stack trace:
+#0 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#1 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#2 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#3 /home/yar0s/Projects/chat/chat-back/yii(20): yii\base\Application->run()
+#4 {main}
+Unknown command: socket/start-socket
+Caused by: Exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "socket/start-socket".'
+
+in /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php:543
+
+Stack trace:
+#0 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#1 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#2 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#3 /home/yar0s/Projects/chat/chat-back/yii(20): yii\base\Application->run()
+#4 {main}
+Unknown command: socket/start-socket
+Caused by: Exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "socket/start-socket".'
+
+in /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php:543
+
+Stack trace:
+#0 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#1 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#2 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#3 /home/yar0s/Projects/chat/chat-back/yii(20): yii\base\Application->run()
+#4 {main}
+Unknown command: socket/start-socket
+Caused by: Exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "socket/start-socket".'
+
+in /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php:543
+
+Stack trace:
+#0 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#1 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#2 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#3 /home/yar0s/Projects/chat/chat-back/yii(20): yii\base\Application->run()
+#4 {main}
+Unknown command: socket/start-socket
+Caused by: Exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "socket/start-socket".'
+
+in /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php:543
+
+Stack trace:
+#0 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#1 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#2 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#3 /home/yar0s/Projects/chat/chat-back/yii(20): yii\base\Application->run()
+#4 {main}
+Unknown command: socket/start-socket
+Caused by: Exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "socket/start-socket".'
+
+in /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php:543
+
+Stack trace:
+#0 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#1 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#2 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#3 /home/yar0s/Projects/chat/chat-back/yii(20): yii\base\Application->run()
+#4 {main}
+Unknown command: socket/start-socket
+Caused by: Exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "socket/start-socket".'
+
+in /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php:543
+
+Stack trace:
+#0 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#1 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#2 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#3 /home/yar0s/Projects/chat/chat-back/yii(20): yii\base\Application->run()
+#4 {main}
+Unknown command: socket/start-socket
+Caused by: Exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "socket/start-socket".'
+
+in /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php:543
+
+Stack trace:
+#0 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#1 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#2 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#3 /home/yar0s/Projects/chat/chat-back/yii(20): yii\base\Application->run()
+#4 {main}
+Unknown command: socket/start-socket
+Caused by: Exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "socket/start-socket".'
+
+in /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php:543
+
+Stack trace:
+#0 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#1 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#2 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#3 /home/yar0s/Projects/chat/chat-back/yii(20): yii\base\Application->run()
+#4 {main}
+Unknown command: socket/start-socket
+Caused by: Exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "socket/start-socket".'
+
+in /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php:543
+
+Stack trace:
+#0 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#1 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#2 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#3 /home/yar0s/Projects/chat/chat-back/yii(20): yii\base\Application->run()
+#4 {main}
+Unknown command: socket/start-socket
+Caused by: Exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "socket/start-socket".'
+
+in /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php:543
+
+Stack trace:
+#0 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#1 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#2 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#3 /home/yar0s/Projects/chat/chat-back/yii(20): yii\base\Application->run()
+#4 {main}
+Unknown command: socket/start-socket
+Caused by: Exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "socket/start-socket".'
+
+in /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php:543
+
+Stack trace:
+#0 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#1 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#2 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#3 /home/yar0s/Projects/chat/chat-back/yii(20): yii\base\Application->run()
+#4 {main}
+Unknown command: socket/start-socket
+Caused by: Exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "socket/start-socket".'
+
+in /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php:543
+
+Stack trace:
+#0 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#1 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#2 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#3 /home/yar0s/Projects/chat/chat-back/yii(20): yii\base\Application->run()
+#4 {main}
+Unknown command: socket/start-socket
+Caused by: Exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "socket/start-socket".'
+
+in /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php:543
+
+Stack trace:
+#0 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#1 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#2 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#3 /home/yar0s/Projects/chat/chat-back/yii(20): yii\base\Application->run()
+#4 {main}
+Unknown command: socket/start-socket
+Caused by: Exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "socket/start-socket".'
+
+in /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php:543
+
+Stack trace:
+#0 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#1 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#2 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#3 /home/yar0s/Projects/chat/chat-back/yii(20): yii\base\Application->run()
+#4 {main}
+Unknown command: socket/start-socket
+Caused by: Exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "socket/start-socket".'
+
+in /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php:543
+
+Stack trace:
+#0 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#1 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#2 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#3 /home/yar0s/Projects/chat/chat-back/yii(20): yii\base\Application->run()
+#4 {main}
+Unknown command: socket/start-socket
+Caused by: Exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "socket/start-socket".'
+
+in /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php:543
+
+Stack trace:
+#0 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#1 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#2 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#3 /home/yar0s/Projects/chat/chat-back/yii(20): yii\base\Application->run()
+#4 {main}
+Unknown command: socket/start-socket
+Caused by: Exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "socket/start-socket".'
+
+in /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php:543
+
+Stack trace:
+#0 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#1 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#2 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#3 /home/yar0s/Projects/chat/chat-back/yii(20): yii\base\Application->run()
+#4 {main}
+Unknown command: socket/start-socket
+Caused by: Exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "socket/start-socket".'
+
+in /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php:543
+
+Stack trace:
+#0 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#1 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#2 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#3 /home/yar0s/Projects/chat/chat-back/yii(20): yii\base\Application->run()
+#4 {main}
+Unknown command: socket/start-socket
+Caused by: Exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "socket/start-socket".'
+
+in /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php:543
+
+Stack trace:
+#0 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#1 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#2 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#3 /home/yar0s/Projects/chat/chat-back/yii(20): yii\base\Application->run()
+#4 {main}
+Unknown command: socket/start-socket
+Caused by: Exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "socket/start-socket".'
+
+in /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php:543
+
+Stack trace:
+#0 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#1 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#2 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#3 /home/yar0s/Projects/chat/chat-back/yii(20): yii\base\Application->run()
+#4 {main}
+Unknown command: socket/start-socket
+Caused by: Exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "socket/start-socket".'
+
+in /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php:543
+
+Stack trace:
+#0 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#1 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#2 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#3 /home/yar0s/Projects/chat/chat-back/yii(20): yii\base\Application->run()
+#4 {main}
+Unknown command: socket/start-socket
+Caused by: Exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "socket/start-socket".'
+
+in /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php:543
+
+Stack trace:
+#0 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#1 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#2 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#3 /home/yar0s/Projects/chat/chat-back/yii(20): yii\base\Application->run()
+#4 {main}
+Unknown command: socket/start-socket
+Caused by: Exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "socket/start-socket".'
+
+in /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php:543
+
+Stack trace:
+#0 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#1 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#2 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#3 /home/yar0s/Projects/chat/chat-back/yii(20): yii\base\Application->run()
+#4 {main}
+Unknown command: socket/start-socket
+Caused by: Exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "socket/start-socket".'
+
+in /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php:543
+
+Stack trace:
+#0 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#1 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#2 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#3 /home/yar0s/Projects/chat/chat-back/yii(20): yii\base\Application->run()
+#4 {main}
+Unknown command: socket/start-socket
+Caused by: Exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "socket/start-socket".'
+
+in /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php:543
+
+Stack trace:
+#0 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#1 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#2 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#3 /home/yar0s/Projects/chat/chat-back/yii(20): yii\base\Application->run()
+#4 {main}
+Unknown command: socket/start-socket
+Caused by: Exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "socket/start-socket".'
+
+in /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php:543
+
+Stack trace:
+#0 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#1 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#2 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#3 /home/yar0s/Projects/chat/chat-back/yii(20): yii\base\Application->run()
+#4 {main}
+Unknown command: socket/start-socket
+Caused by: Exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "socket/start-socket".'
+
+in /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php:543
+
+Stack trace:
+#0 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#1 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#2 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#3 /home/yar0s/Projects/chat/chat-back/yii(20): yii\base\Application->run()
+#4 {main}
+Exception 'yii\base\InvalidConfigException' with message 'Controller class must extend from \yii\base\Controller.'
+
+in /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php:651
+
+Stack trace:
+#0 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php(602): yii\base\Module->createControllerByID()
+#1 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Module->createController()
+#2 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#3 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#4 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#5 /home/yar0s/Projects/chat/chat-back/yii(20): yii\base\Application->run()
+#6 {main}
+Exception 'yii\base\InvalidConfigException' with message 'Controller class must extend from \yii\base\Controller.'
+
+in /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php:651
+
+Stack trace:
+#0 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php(602): yii\base\Module->createControllerByID()
+#1 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Module->createController()
+#2 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#3 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#4 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#5 /home/yar0s/Projects/chat/chat-back/yii(20): yii\base\Application->run()
+#6 {main}
+Exception 'yii\base\InvalidConfigException' with message 'Controller class must extend from \yii\base\Controller.'
+
+in /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php:651
+
+Stack trace:
+#0 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php(602): yii\base\Module->createControllerByID()
+#1 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Module->createController()
+#2 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#3 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#4 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#5 /home/yar0s/Projects/chat/chat-back/yii(20): yii\base\Application->run()
+#6 {main}
+Exception 'yii\base\InvalidConfigException' with message 'Controller class must extend from \yii\base\Controller.'
+
+in /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php:651
+
+Stack trace:
+#0 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php(602): yii\base\Module->createControllerByID()
+#1 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Module->createController()
+#2 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#3 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#4 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#5 /home/yar0s/Projects/chat/chat-back/yii(20): yii\base\Application->run()
+#6 {main}
+Exception 'yii\base\InvalidConfigException' with message 'Controller class must extend from \yii\base\Controller.'
+
+in /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php:651
+
+Stack trace:
+#0 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php(602): yii\base\Module->createControllerByID()
+#1 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Module->createController()
+#2 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#3 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#4 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#5 /home/yar0s/Projects/chat/chat-back/yii(20): yii\base\Application->run()
+#6 {main}
+Exception 'yii\base\InvalidConfigException' with message 'Controller class must extend from \yii\base\Controller.'
+
+in /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php:651
+
+Stack trace:
+#0 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php(602): yii\base\Module->createControllerByID()
+#1 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Module->createController()
+#2 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#3 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#4 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#5 /home/yar0s/Projects/chat/chat-back/yii(20): yii\base\Application->run()
+#6 {main}
+Exception 'yii\base\InvalidConfigException' with message 'Controller class must extend from \yii\base\Controller.'
+
+in /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php:651
+
+Stack trace:
+#0 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php(602): yii\base\Module->createControllerByID()
+#1 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Module->createController()
+#2 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#3 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#4 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#5 /home/yar0s/Projects/chat/chat-back/yii(20): yii\base\Application->run()
+#6 {main}
+Exception 'yii\base\InvalidConfigException' with message 'Controller class must extend from \yii\base\Controller.'
+
+in /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php:651
+
+Stack trace:
+#0 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php(602): yii\base\Module->createControllerByID()
+#1 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Module->createController()
+#2 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#3 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#4 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#5 /home/yar0s/Projects/chat/chat-back/yii(20): yii\base\Application->run()
+#6 {main}
+Exception 'yii\base\InvalidConfigException' with message 'Controller class must extend from \yii\base\Controller.'
+
+in /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php:651
+
+Stack trace:
+#0 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php(602): yii\base\Module->createControllerByID()
+#1 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Module->createController()
+#2 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#3 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#4 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#5 /home/yar0s/Projects/chat/chat-back/yii(20): yii\base\Application->run()
+#6 {main}
+Exception 'yii\base\InvalidConfigException' with message 'Controller class must extend from \yii\base\Controller.'
+
+in /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php:651
+
+Stack trace:
+#0 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php(602): yii\base\Module->createControllerByID()
+#1 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Module->createController()
+#2 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#3 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#4 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#5 /home/yar0s/Projects/chat/chat-back/yii(20): yii\base\Application->run()
+#6 {main}
+Exception 'yii\base\InvalidConfigException' with message 'Controller class must extend from \yii\base\Controller.'
+
+in /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php:651
+
+Stack trace:
+#0 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php(602): yii\base\Module->createControllerByID()
+#1 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Module->createController()
+#2 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#3 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#4 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#5 /home/yar0s/Projects/chat/chat-back/yii(20): yii\base\Application->run()
+#6 {main}
+Exception 'yii\base\InvalidConfigException' with message 'Controller class must extend from \yii\base\Controller.'
+
+in /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php:651
+
+Stack trace:
+#0 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php(602): yii\base\Module->createControllerByID()
+#1 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Module->createController()
+#2 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#3 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#4 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#5 /home/yar0s/Projects/chat/chat-back/yii(20): yii\base\Application->run()
+#6 {main}
+Exception 'yii\base\InvalidConfigException' with message 'Controller class must extend from \yii\base\Controller.'
+
+in /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php:651
+
+Stack trace:
+#0 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php(602): yii\base\Module->createControllerByID()
+#1 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Module->createController()
+#2 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#3 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#4 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#5 /home/yar0s/Projects/chat/chat-back/yii(20): yii\base\Application->run()
+#6 {main}
+Exception 'yii\base\InvalidConfigException' with message 'Controller class must extend from \yii\base\Controller.'
+
+in /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php:651
+
+Stack trace:
+#0 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php(602): yii\base\Module->createControllerByID()
+#1 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Module->createController()
+#2 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#3 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#4 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#5 /home/yar0s/Projects/chat/chat-back/yii(20): yii\base\Application->run()
+#6 {main}
+Exception 'yii\base\InvalidConfigException' with message 'Controller class must extend from \yii\base\Controller.'
+
+in /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php:651
+
+Stack trace:
+#0 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php(602): yii\base\Module->createControllerByID()
+#1 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Module->createController()
+#2 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#3 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#4 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#5 /home/yar0s/Projects/chat/chat-back/yii(20): yii\base\Application->run()
+#6 {main}
+Exception 'yii\base\InvalidConfigException' with message 'Controller class must extend from \yii\base\Controller.'
+
+in /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php:651
+
+Stack trace:
+#0 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php(602): yii\base\Module->createControllerByID()
+#1 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Module->createController()
+#2 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#3 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#4 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#5 /home/yar0s/Projects/chat/chat-back/yii(20): yii\base\Application->run()
+#6 {main}
+PHP Fatal error:  Cannot declare class ChatController, because the name is already in use in /home/yar0s/Projects/chat/chat-back/sockets/ChatController.php on line 7
+PHP Compile Error 'yii\base\ErrorException' with message 'Cannot declare class ChatController, because the name is already in use'
+
+in /home/yar0s/Projects/chat/chat-back/sockets/ChatController.php:7
+
+Stack trace:
+#0 [internal function]: yii\base\ErrorHandler->handleFatalError()
+#1 {main}
+Exception 'ParseError' with message 'syntax error, unexpected 'return' (T_RETURN)'
+
+in /home/yar0s/Projects/chat/chat-back/commands/SocketController.php:37
+
+Stack trace:
+#0 [internal function]: yii\BaseYii::autoload()
+#1 [internal function]: spl_autoload_call()
+#2 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php(643): class_exists()
+#3 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php(602): yii\base\Module->createControllerByID()
+#4 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Module->createController()
+#5 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#6 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#7 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#8 /home/yar0s/Projects/chat/chat-back/yii(20): yii\base\Application->run()
+#9 {main}
+Exception 'ParseError' with message 'syntax error, unexpected 'return' (T_RETURN)'
+
+in /home/yar0s/Projects/chat/chat-back/commands/SocketController.php:37
+
+Stack trace:
+#0 [internal function]: yii\BaseYii::autoload()
+#1 [internal function]: spl_autoload_call()
+#2 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php(643): class_exists()
+#3 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php(602): yii\base\Module->createControllerByID()
+#4 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Module->createController()
+#5 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#6 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#7 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#8 /home/yar0s/Projects/chat/chat-back/yii(20): yii\base\Application->run()
+#9 {main}
+Exception 'ParseError' with message 'syntax error, unexpected 'return' (T_RETURN)'
+
+in /home/yar0s/Projects/chat/chat-back/commands/SocketController.php:37
+
+Stack trace:
+#0 [internal function]: yii\BaseYii::autoload()
+#1 [internal function]: spl_autoload_call()
+#2 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php(643): class_exists()
+#3 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php(602): yii\base\Module->createControllerByID()
+#4 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Module->createController()
+#5 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#6 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#7 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#8 /home/yar0s/Projects/chat/chat-back/yii(20): yii\base\Application->run()
+#9 {main}
+Exception 'ParseError' with message 'syntax error, unexpected 'return' (T_RETURN)'
+
+in /home/yar0s/Projects/chat/chat-back/commands/SocketController.php:37
+
+Stack trace:
+#0 [internal function]: yii\BaseYii::autoload()
+#1 [internal function]: spl_autoload_call()
+#2 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php(643): class_exists()
+#3 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php(602): yii\base\Module->createControllerByID()
+#4 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Module->createController()
+#5 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#6 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#7 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#8 /home/yar0s/Projects/chat/chat-back/yii(20): yii\base\Application->run()
+#9 {main}
+Exception 'ParseError' with message 'syntax error, unexpected 'return' (T_RETURN)'
+
+in /home/yar0s/Projects/chat/chat-back/commands/SocketController.php:37
+
+Stack trace:
+#0 [internal function]: yii\BaseYii::autoload()
+#1 [internal function]: spl_autoload_call()
+#2 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php(643): class_exists()
+#3 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php(602): yii\base\Module->createControllerByID()
+#4 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Module->createController()
+#5 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#6 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#7 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#8 /home/yar0s/Projects/chat/chat-back/yii(20): yii\base\Application->run()
+#9 {main}
+Exception 'ParseError' with message 'syntax error, unexpected 'return' (T_RETURN)'
+
+in /home/yar0s/Projects/chat/chat-back/commands/SocketController.php:37
+
+Stack trace:
+#0 [internal function]: yii\BaseYii::autoload()
+#1 [internal function]: spl_autoload_call()
+#2 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php(643): class_exists()
+#3 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php(602): yii\base\Module->createControllerByID()
+#4 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Module->createController()
+#5 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#6 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#7 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#8 /home/yar0s/Projects/chat/chat-back/yii(20): yii\base\Application->run()
+#9 {main}
+Exception 'ParseError' with message 'syntax error, unexpected 'return' (T_RETURN)'
+
+in /home/yar0s/Projects/chat/chat-back/commands/SocketController.php:37
+
+Stack trace:
+#0 [internal function]: yii\BaseYii::autoload()
+#1 [internal function]: spl_autoload_call()
+#2 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php(643): class_exists()
+#3 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php(602): yii\base\Module->createControllerByID()
+#4 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Module->createController()
+#5 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#6 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#7 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#8 /home/yar0s/Projects/chat/chat-back/yii(20): yii\base\Application->run()
+#9 {main}
+Exception 'ParseError' with message 'syntax error, unexpected 'return' (T_RETURN)'
+
+in /home/yar0s/Projects/chat/chat-back/commands/SocketController.php:37
+
+Stack trace:
+#0 [internal function]: yii\BaseYii::autoload()
+#1 [internal function]: spl_autoload_call()
+#2 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php(643): class_exists()
+#3 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php(602): yii\base\Module->createControllerByID()
+#4 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Module->createController()
+#5 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#6 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#7 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#8 /home/yar0s/Projects/chat/chat-back/yii(20): yii\base\Application->run()
+#9 {main}
+Exception 'ParseError' with message 'syntax error, unexpected 'return' (T_RETURN)'
+
+in /home/yar0s/Projects/chat/chat-back/commands/SocketController.php:37
+
+Stack trace:
+#0 [internal function]: yii\BaseYii::autoload()
+#1 [internal function]: spl_autoload_call()
+#2 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php(643): class_exists()
+#3 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php(602): yii\base\Module->createControllerByID()
+#4 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Module->createController()
+#5 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#6 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#7 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#8 /home/yar0s/Projects/chat/chat-back/yii(20): yii\base\Application->run()
+#9 {main}
+Exception 'ParseError' with message 'syntax error, unexpected 'return' (T_RETURN)'
+
+in /home/yar0s/Projects/chat/chat-back/commands/SocketController.php:37
+
+Stack trace:
+#0 [internal function]: yii\BaseYii::autoload()
+#1 [internal function]: spl_autoload_call()
+#2 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php(643): class_exists()
+#3 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php(602): yii\base\Module->createControllerByID()
+#4 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Module->createController()
+#5 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#6 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#7 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#8 /home/yar0s/Projects/chat/chat-back/yii(20): yii\base\Application->run()
+#9 {main}
+Exception 'ParseError' with message 'syntax error, unexpected 'return' (T_RETURN)'
+
+in /home/yar0s/Projects/chat/chat-back/commands/SocketController.php:37
+
+Stack trace:
+#0 [internal function]: yii\BaseYii::autoload()
+#1 [internal function]: spl_autoload_call()
+#2 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php(643): class_exists()
+#3 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php(602): yii\base\Module->createControllerByID()
+#4 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Module->createController()
+#5 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#6 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#7 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#8 /home/yar0s/Projects/chat/chat-back/yii(20): yii\base\Application->run()
+#9 {main}
+Exception 'ParseError' with message 'syntax error, unexpected 'return' (T_RETURN)'
+
+in /home/yar0s/Projects/chat/chat-back/commands/SocketController.php:37
+
+Stack trace:
+#0 [internal function]: yii\BaseYii::autoload()
+#1 [internal function]: spl_autoload_call()
+#2 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php(643): class_exists()
+#3 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php(602): yii\base\Module->createControllerByID()
+#4 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Module->createController()
+#5 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#6 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#7 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#8 /home/yar0s/Projects/chat/chat-back/yii(20): yii\base\Application->run()
+#9 {main}
+Exception 'ParseError' with message 'syntax error, unexpected 'return' (T_RETURN)'
+
+in /home/yar0s/Projects/chat/chat-back/commands/SocketController.php:37
+
+Stack trace:
+#0 [internal function]: yii\BaseYii::autoload()
+#1 [internal function]: spl_autoload_call()
+#2 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php(643): class_exists()
+#3 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php(602): yii\base\Module->createControllerByID()
+#4 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Module->createController()
+#5 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#6 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#7 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#8 /home/yar0s/Projects/chat/chat-back/yii(20): yii\base\Application->run()
+#9 {main}
+Exception 'ParseError' with message 'syntax error, unexpected 'return' (T_RETURN)'
+
+in /home/yar0s/Projects/chat/chat-back/commands/SocketController.php:37
+
+Stack trace:
+#0 [internal function]: yii\BaseYii::autoload()
+#1 [internal function]: spl_autoload_call()
+#2 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php(643): class_exists()
+#3 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php(602): yii\base\Module->createControllerByID()
+#4 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Module->createController()
+#5 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#6 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#7 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#8 /home/yar0s/Projects/chat/chat-back/yii(20): yii\base\Application->run()
+#9 {main}
+Exception 'ParseError' with message 'syntax error, unexpected 'return' (T_RETURN)'
+
+in /home/yar0s/Projects/chat/chat-back/commands/SocketController.php:37
+
+Stack trace:
+#0 [internal function]: yii\BaseYii::autoload()
+#1 [internal function]: spl_autoload_call()
+#2 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php(643): class_exists()
+#3 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php(602): yii\base\Module->createControllerByID()
+#4 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Module->createController()
+#5 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#6 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#7 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#8 /home/yar0s/Projects/chat/chat-back/yii(20): yii\base\Application->run()
+#9 {main}
+Exception 'ParseError' with message 'syntax error, unexpected 'return' (T_RETURN)'
+
+in /home/yar0s/Projects/chat/chat-back/commands/SocketController.php:37
+
+Stack trace:
+#0 [internal function]: yii\BaseYii::autoload()
+#1 [internal function]: spl_autoload_call()
+#2 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php(643): class_exists()
+#3 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php(602): yii\base\Module->createControllerByID()
+#4 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Module->createController()
+#5 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(181): yii\base\Module->runAction()
+#6 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/console/Application.php(148): yii\console\Application->runAction()
+#7 /home/yar0s/Projects/chat/chat-back/vendor/yiisoft/yii2/base/Application.php(392): yii\console\Application->handleRequest()
+#8 /home/yar0s/Projects/chat/chat-back/yii(20): yii\base\Application->run()
+#9 {main}

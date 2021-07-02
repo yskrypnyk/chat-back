@@ -16,7 +16,7 @@ class UsersController extends SecurityController
      * @param password - password
      * @return false|string - json with status and data||warning.
      *          status - boolean to check whether operation was a success
-     *          data - array with encoded new token and user_id [token,id]
+     *          data - array with user data [token,id,authType,name]
      */
     public function actionRegister()
     {
@@ -33,7 +33,12 @@ class UsersController extends SecurityController
                 $user->auth_key = Yii::$app->security->generateRandomString();
 
                 if ($user->save()) {
-                    return json_encode(['status' => true, 'data'=>['token' => base64_encode($user->auth_key), 'id' => $user->id]]);
+                    return json_encode(['status' => true, 'data'=>[
+                        'token' => $user->auth_key,
+                        'id' => $user->id,
+                        'authType'=>$user->auth_type,
+                        'name'=>$user->name
+                    ]]);
                 } else {
                     return json_encode(['status' => false, 'message' => "Something went wrong"]);
                 }
@@ -51,7 +56,7 @@ class UsersController extends SecurityController
      * @param password - current password
      * @return false|string - json with status and data||warning.
      *          status - boolean to check whether operation was a success
-     *          data - array with encoded new token and user_id [token,id]
+     *          data - array with user data [token,id,authType,name]
      */
     public function actionLogin()
     {
@@ -66,7 +71,12 @@ class UsersController extends SecurityController
                 if (Yii::$app->getSecurity()->validatePassword($password, $user->password)) {
                     $user->auth_key = Yii::$app->security->generateRandomString();
                     if ($user->save()) {
-                        return json_encode(['status' => true, 'data'=>['token' => base64_encode($user->auth_key), 'id' => $user->id]]);
+                        return json_encode(['status' => true, 'data'=>[
+                            'token' => $user->auth_key,
+                            'id' => $user->id,
+                            'authType'=>$user->auth_type,
+                            'name'=>$user->name
+                        ]]);
                     } else {
                         return json_encode(['status' => false, 'message' => 'Saving token failed']);
                     }
