@@ -23,7 +23,7 @@ use yii\widgets\ActiveForm;
 
     <?= $form->field($model, 'password') ?>
 
-    <?= $form->field($model, 'auth_token') ?>
+    <?= $form->field($model, 'auth_key') ?>
 
     <?php // echo $form->field($model, 'auth_type') ?>
 
