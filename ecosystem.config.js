@@ -1,6 +1,6 @@
 module.exports = {
     apps : [{
-        name: 'websocket',
+        name: 'test-chat-websocket',
         script: 'socket.sh',
         instances: 1,
         autorestart: true,
