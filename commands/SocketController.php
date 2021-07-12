@@ -15,7 +15,7 @@ use React\Socket\ServerInterface;
 
 class SocketController extends \yii\console\Controller {
 
-    public function actionStartSocket($port = 8088) {
+    public function actionStartSocket($port = 8089) {
 
         $loop = LoopFactory::create();
         $socket = new Reactor("0.0.0.0:".$port, $loop);
