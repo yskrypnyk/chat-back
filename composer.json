@@ -71,7 +71,7 @@
         },
         {
             "type": "path",
-            "url": "yii2-yiisockets"
+            "url": "../yii2-yiisockets"
         }
 
     ]
