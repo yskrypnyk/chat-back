@@ -157,7 +157,12 @@ class UsersController extends SecurityController
             return json_encode(['status' => false, 'warning' => 'Missing query parameters']);
         }
     }
-
+    /**
+     * This method gets all users ids
+     * @return false|string - json with status and data||warning.
+     *          status - boolean to check whether operation was a success
+     *          data - array of user data [id, name]
+     */
     public function actionGetAllUsers(){
         $data = Users::find()
             ->select('id, name')
