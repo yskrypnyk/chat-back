@@ -157,4 +157,17 @@ class UsersController extends SecurityController
             return json_encode(['status' => false, 'warning' => 'Missing query parameters']);
         }
     }
+
+    public function actionGetAllUsers(){
+        $data = Users::find()
+            ->select('id, name')
+            ->asArray()
+            ->all();
+
+        if ($data){
+            return json_encode(['status' => true, 'data' => $data]);
+        } else {
+            return json_encode(['status' => false, 'warning' => 'Users not found']);
+        }
+    }
 }

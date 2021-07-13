@@ -29,7 +29,7 @@ class ChatsController extends SecurityController
             $data = [];
             foreach ($availableChats as $chat){
                 $chatInfo = Chats::findOne($chat['id']);
-                array_push($data, [$chatInfo->id, $chatInfo->name]);
+                array_push($data, ["id"=>$chatInfo->id, "name"=>$chatInfo->name]);
             }
             if (!empty($data)){
                 return json_encode(['status'=>true, 'data'=>$data]);
@@ -222,7 +222,7 @@ class ChatsController extends SecurityController
         $messagesLimit = Yii::$app->request->post('messages_limit');
         $offset = Yii::$app->request->post('offset');
 
-        if ($chatId && $messagesLimit && $offset){
+        if ($chatId && $messagesLimit){
             $chatData = Chats::find()
                 ->select('users.id as sender_id, users.name as sender_name, chat_messages.message')
                 ->where(['chats.id'=>$chatId])
@@ -231,7 +231,7 @@ class ChatsController extends SecurityController
                 ->rightJoin('chat_messages','chat_messages.member_id = chat_members.id')
                 ->orderBy('chat_messages.created_at')
                 ->limit($messagesLimit)
-                ->offset($offset)
+                ->offset($offset ? $offset : 0)
                 ->asArray()
                 ->all();
             if ($chatData){
