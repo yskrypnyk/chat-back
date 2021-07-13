@@ -17,20 +17,19 @@ class ChatsController extends SecurityController
      * @param user_id - requested user id
      * @return false|string - json with status and data||warning.
      *          status - boolean to check whether operation was a success
-     *          data consists of array with ids of available chats
+     *          data consists of array with ids and names of available chats
      */
     function actionGetAvailableChats(){
         $userId = Yii::$app->request->post('user_id');
         if ($userId){
             $availableChats = ChatMembers::find()
-                ->select('chat_id')
                 ->where(['user_id'=>$userId])
                 ->asArray()
                 ->all();
-
             $data = [];
             foreach ($availableChats as $chat){
-                array_push($data, $chat['chat_id']);
+                $chatInfo = Chats::findOne($chat['id']);
+                array_push($data, [$chatInfo->id, $chatInfo->name]);
             }
             if (!empty($data)){
                 return json_encode(['status'=>true, 'data'=>$data]);
