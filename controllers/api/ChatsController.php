@@ -28,7 +28,7 @@ class ChatsController extends SecurityController
                 ->all();
             $data = [];
             foreach ($availableChats as $chat){
-                $chatInfo = Chats::findOne($chat['id']);
+                $chatInfo = Chats::findOne($chat['chat_id']);
                 array_push($data, ["id"=>$chatInfo->id, "name"=>$chatInfo->name]);
             }
             if (!empty($data)){
@@ -223,19 +223,22 @@ class ChatsController extends SecurityController
         $offset = Yii::$app->request->post('offset');
 
         if ($chatId && $messagesLimit){
-            $chatData = Chats::find()
-                ->select('users.id as sender_id, users.name as sender_name, chat_messages.message')
-                ->where(['chats.id'=>$chatId])
-                ->rightJoin('chat_members','chat_members.chat_id = chats.id')
-                ->rightJoin('users','chat_members.user_id = users.id')
-                ->rightJoin('chat_messages','chat_messages.member_id = chat_members.id')
-                ->orderBy('chat_messages.created_at')
-                ->limit($messagesLimit)
-                ->offset($offset ? $offset : 0)
-                ->asArray()
-                ->all();
-            if ($chatData){
+            $checker = Chats::findOne($chatId);
+            if ($checker){
+                $chatData = Chats::find()
+                    ->select('users.id as sender_id, users.name as sender_name, chat_messages.message')
+                    ->where(['chats.id'=>$chatId])
+                    ->rightJoin('chat_members','chat_members.chat_id = chats.id')
+                    ->rightJoin('users','chat_members.user_id = users.id')
+                    ->rightJoin('chat_messages','chat_messages.member_id = chat_members.id')
+                    ->orderBy('chat_messages.created_at')
+                    ->limit($messagesLimit)
+                    ->offset($offset)
+                    ->asArray()
+                    ->all();
+
                 return json_encode(['status'=>true, 'data'=>$chatData]);
+
             } else {
                 return json_encode(['status'=>false, 'warning'=>"Chat with this id does not exist"]);
             }
