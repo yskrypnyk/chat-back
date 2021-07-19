@@ -33,7 +33,7 @@ class ChatController extends BaseController
         $model->message = $text;
         $model->member_id = $chatMember->id;
         if ($model->save()){
-            $this->sendToGroup('new-message', ['user_id' => $user->id, 'text' => $text, 'chat_id'=>$chatId], 'chat-' . $chatId);
+            $this->sendToGroup('new-message', ['sender_id' => $user->id, 'sender_name'=>$user->name, 'message' => $text, 'chat_id'=>$chatId], 'chat-' . $chatId);
         } else {
             $this->sendToGroup('error', ['error' => "Problem saving message"], 'chat-' . $chatId);
 
