@@ -243,7 +243,7 @@ class ChatsController extends SecurityController
             $checker = Chats::findOne($chatId);
             if ($checker) {
                 $chatData = Chats::find()
-                    ->select('users.id as sender_id, users.name as sender_name, chat_messages.message')
+                    ->select('users.id as sender_id, users.name as sender_name, chat_messages.message, chats.id as chat_id')
                     ->where(['chats.id' => $chatId])
                     ->rightJoin('chat_members', 'chat_members.chat_id = chats.id')
                     ->rightJoin('users', 'chat_members.user_id = users.id')
