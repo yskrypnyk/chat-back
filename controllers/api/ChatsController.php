@@ -227,7 +227,7 @@ class ChatsController extends SecurityController
     /**
      * This method gets chat message history between all users
      * @param chat_id - requested chat id
-     * @param message_limit - amount of messages to return
+     * @param messages_limit - amount of messages to return
      * @param offset - messages offset
      * @return false|string - json with status and data||warning.
      *          status - boolean to check whether operation was a success
